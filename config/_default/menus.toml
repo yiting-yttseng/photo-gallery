@@ -1,9 +1,14 @@
 [[main]]
-  name = "作品集"
+  name = "Homepage"
+  pageRef = "/"
+  weight = 5
+
+[[main]]
+  name = "Albums"
   pageRef = "albums"
   weight = 10
 
 [[main]]
-  name = "關於"
+  name = "About"
   pageRef = "about"
   weight = 20
