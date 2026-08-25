@@ -1,0 +1,10 @@
+colorScheme = "slate"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+
+showAuthor = false
+showDate = false
+showReadingTime = false
+showWordCount = false
+showBreadcrumbs = false
+showPagination = false
