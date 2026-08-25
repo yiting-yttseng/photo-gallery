@@ -2,3 +2,9 @@
   languageName = "English"
   weight = 1
   title = "My Gallery"
+
+  [en.params]
+    displayName = "EN"
+    isoCode = "en"
+    rtl = false
+    dateFormat = "2 January 2006"
