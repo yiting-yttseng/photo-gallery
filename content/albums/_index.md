@@ -1,3 +1,4 @@
 ---
-title: "作品集"
+title: "Albums"
+layout: "list"
 ---
