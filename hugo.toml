@@ -1,5 +1,5 @@
 baseURL = "https://yiting-yttseng.github.io/photo-gallery/"
-languageCode = "en"
+defaultContentLanguage = "en"
 title = "My Gallery"
 
 [module]
