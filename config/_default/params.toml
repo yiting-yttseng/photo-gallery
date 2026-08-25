@@ -3,3 +3,9 @@ ShowReadingTime = false
 ShowWordCount = false
 ShowBreadCrumbs = false
 ShowPostNavLinks = false
+ShowDate = false
+
+[cover]
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = true
