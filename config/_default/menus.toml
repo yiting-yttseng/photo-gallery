@@ -1,0 +1,9 @@
+[[main]]
+  name = "作品集"
+  pageRef = "albums"
+  weight = 10
+
+[[main]]
+  name = "關於"
+  pageRef = "about"
+  weight = 20
