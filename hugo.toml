@@ -1,6 +1,5 @@
 baseURL = "https://yiting-yttseng.github.io/photo-gallery/"
 title = "My Gallery"
-theme = "PaperMod"
 
 [module]
   [[module.imports]]
