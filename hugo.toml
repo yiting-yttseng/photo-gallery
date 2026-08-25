@@ -1,0 +1,7 @@
+baseURL = "https://yiting-yttseng.github.io/photo-gallery/"
+languageCode = "zh-tw"
+title = "My Gallery"
+
+[module]
+  [[module.imports]]
+    path = "github.com/jpanther/congo/v2"
