@@ -143,3 +143,30 @@ article.post-entry {
   max-width: 100%;
   width: 100%;
 }
+
+
+/* 圖片並排填滿寬度 */
+.img-row {
+  width: 100%;
+}
+.img-row .img-single {
+  flex: 1;
+  min-width: 0;
+}
+.img-row .img-single img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 250px;
+  object-fit: cover;
+}
+
+/* 相簿內頁標題靠左 */
+body.single .post-header,
+body.single h1.post-title {
+  text-align: left !important;
+}
+
+/* Albums 頁標題靠左 */
+body.list .page-header h1 {
+  text-align: left !important;
+}
