@@ -20,9 +20,13 @@ body.list main.main .page-header {
   text-align: left !important;
 }
 
-body.list main.main .page-header h1 {
+body.list main.main .page-header h1,
+body.list h1.page-title,
+body.list .page-header h1 {
   text-align: left !important;
   font-size: 1.8rem;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 }
 
 /* 相簿卡片樣式 */
@@ -50,9 +54,6 @@ article.post-entry {
   font-weight: 500;
 }
 
-.entry-footer {
-  display: none;
-}
 
 /* 首頁和單一頁面：不用格線 */
 body.home main.main,
