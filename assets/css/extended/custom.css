@@ -14,9 +14,14 @@ main.main {
   align-items: start;
 }
 
-/* 讓標題跨越全部三欄 */
+/* 讓標題跨越全部三欄 */ /* 標題靠左 */
 main.main .page-header {
   grid-column: 1 / -1;
+  text-align: left;
+}
+
+h1.page-title {
+  text-align: left;
 }
 
 /* 但首頁和其他頁面不要用格線 */
