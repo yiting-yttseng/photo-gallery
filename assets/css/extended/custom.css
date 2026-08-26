@@ -4,8 +4,8 @@
   padding: 0 40px;
 }
 
-/* Albums 三欄格線 - 正確 selector */
-main.main {
+/* Albums 頁面：三欄格線 */
+body.list main.main {
   display: grid !important;
   grid-template-columns: repeat(3, 1fr) !important;
   gap: 20px !important;
@@ -14,22 +14,18 @@ main.main {
   align-items: start;
 }
 
-/* 讓標題跨越全部三欄 */ /* 標題靠左 */
-main.main .page-header,
-.post-header {
+/* Albums 標題跨越全部三欄並靠左 */
+body.list main.main .page-header {
   grid-column: 1 / -1;
   text-align: left !important;
 }
 
-/* 但首頁和其他頁面不要用格線 */
-body.home main.main,
-body.single main.main,
-body.page main.main {
-  display: block !important;
-  max-width: 1100px;
-  padding: 0 40px;
+body.list main.main .page-header h1 {
+  text-align: left !important;
+  font-size: 1.8rem;
 }
 
+/* 相簿卡片樣式 */
 article.post-entry {
   margin: 0 !important;
   width: 100% !important;
@@ -56,6 +52,24 @@ article.post-entry {
 
 .entry-footer {
   display: none;
+}
+
+/* 首頁和單一頁面：不用格線 */
+body.home main.main,
+body.single main.main,
+body.page main.main {
+  display: block !important;
+  max-width: 1100px;
+  padding: 20px 40px;
+}
+
+/* 單一相簿頁標題靠左 */
+body.single .post-header {
+  text-align: left !important;
+}
+
+body.single h1.post-title {
+  text-align: left !important;
 }
 
 /* 首頁時間軸 */
@@ -117,56 +131,34 @@ article.post-entry {
   transition: color 0.2s;
 }
 
-
-/* 單張圖片置中 */
+/* 相簿內頁圖片排版 */
 .img-single {
-  text-align: center;
   margin: 16px 0;
 }
+
 .img-single img {
-  max-width: 70%;
+  width: 100%;
   border-radius: 8px;
   cursor: zoom-in;
+  display: block;
 }
 
-/* 多張一排 */
 .img-row {
   display: flex;
   gap: 12px;
   margin: 16px 0;
-}
-.img-row .img-single {
-  flex: 1;
-  margin: 0;
-}
-.img-row .img-single img {
-  max-width: 100%;
   width: 100%;
 }
 
-
-/* 圖片並排填滿寬度 */
-.img-row {
-  width: 100%;
-}
 .img-row .img-single {
   flex: 1;
   min-width: 0;
+  margin: 0;
 }
+
 .img-row .img-single img {
-  width: 100% !important;
-  max-width: 100% !important;
-  height: 250px;
+  width: 100%;
+  height: 300px;
   object-fit: cover;
-}
-
-/* 相簿內頁標題靠左 */
-body.single .post-header,
-body.single h1.post-title {
-  text-align: left !important;
-}
-
-/* Albums 頁標題靠左 */
-body.list .page-header h1 {
-  text-align: left !important;
+  border-radius: 8px;
 }
