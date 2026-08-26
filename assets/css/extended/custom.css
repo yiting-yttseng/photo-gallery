@@ -15,13 +15,10 @@ main.main {
 }
 
 /* 讓標題跨越全部三欄 */ /* 標題靠左 */
-main.main .page-header {
+main.main .page-header,
+.post-header {
   grid-column: 1 / -1;
-  text-align: left;
-}
-
-h1.page-title {
-  text-align: left;
+  text-align: left !important;
 }
 
 /* 但首頁和其他頁面不要用格線 */
