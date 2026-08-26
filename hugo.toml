@@ -1,5 +1,5 @@
 baseURL = "https://yiting-yttseng.github.io/photo-gallery/"
-title = "My Gallery"
+title = "Yi-Ting's Gallery"
 
 [module]
   [[module.imports]]
