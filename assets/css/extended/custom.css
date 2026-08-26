@@ -116,3 +116,30 @@ article.post-entry {
   color: #ccc;
   transition: color 0.2s;
 }
+
+
+/* 單張圖片置中 */
+.img-single {
+  text-align: center;
+  margin: 16px 0;
+}
+.img-single img {
+  max-width: 70%;
+  border-radius: 8px;
+  cursor: zoom-in;
+}
+
+/* 多張一排 */
+.img-row {
+  display: flex;
+  gap: 12px;
+  margin: 16px 0;
+}
+.img-row .img-single {
+  flex: 1;
+  margin: 0;
+}
+.img-row .img-single img {
+  max-width: 100%;
+  width: 100%;
+}
