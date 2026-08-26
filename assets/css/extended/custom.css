@@ -1,0 +1,23 @@
+/* Albums 三欄格線 */
+.posts-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+/* 縮小每張卡片 */
+.post-entry {
+  margin: 0 !important;
+}
+
+/* 縮小封面圖片高度 */
+.entry-cover img {
+  height: 160px;
+  object-fit: cover;
+}
+
+/* 縮小標題字體 */
+.entry-header h2 {
+  font-size: 1rem;
+  font-weight: 500;
+}
