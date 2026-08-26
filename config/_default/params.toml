@@ -3,7 +3,7 @@ ShowReadingTime = false
 ShowWordCount = false
 ShowBreadCrumbs = false
 ShowPostNavLinks = false
-ShowDate = false
+ShowDate = true
 
 [cover]
   hidden = false
