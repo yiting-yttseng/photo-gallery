@@ -181,3 +181,17 @@ body.single h1.post-title {
 .komoot-embed iframe {
   height: 350px !important;
 }
+
+
+/* 寬景照片 - 置中、限制最大寬度 */
+.img-wide {
+  text-align: center;
+  margin: 16px auto;
+  max-width: 85%;
+}
+
+.img-wide img {
+  width: 100%;
+  border-radius: 8px;
+  cursor: zoom-in;
+}
