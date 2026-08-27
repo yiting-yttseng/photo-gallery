@@ -170,3 +170,14 @@ body.single h1.post-title {
   object-fit: contain;
   border-radius: 8px;
 }
+
+
+/* Komoot embed 縮小置中 */
+.komoot-embed {
+  max-width: 600px;
+  margin: 24px auto;
+}
+
+.komoot-embed iframe {
+  height: 350px !important;
+}
