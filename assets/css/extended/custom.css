@@ -20,13 +20,12 @@ body.list main.main .page-header {
   text-align: left !important;
 }
 
+
 body.list main.main .page-header h1,
-body.list h1.page-title,
-body.list .page-header h1 {
+body.list main.main h1,
+body.list h1 {
   text-align: left !important;
-  font-size: 1.8rem;
   margin-left: 0 !important;
-  padding-left: 0 !important;
 }
 
 /* 相簿卡片樣式 */
