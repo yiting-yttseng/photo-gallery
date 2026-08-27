@@ -10,13 +10,13 @@ cover:
 
 **Aug 8–21, 2026 · Chamonix-Mont-Blanc (夏慕尼), France**
 
-Thirteen days in the heart of the Alps — glaciers, via ferrata, a cross-border bike ride, and the heights of Mont Blanc from both the French and Italian sides.
+Thirteen days in the heart of the Alps — glaciers, via ferrata, a cross-border cycling trip, and the heights of Mont Blanc from both French and Italian sides.
 
 ---
 
 ## Day 1 · Aug 8 — Arrival (抵達夏慕尼)
 
-Chamonix sits in a deep valley carved by glaciers, surrounded by jagged granite needles and the massive bulk of Mont Blanc. The town hums with climbers, hikers, and paragliders. First impressions: the scale of everything here is hard to grasp until you're standing in the middle of it.
+Chamonix sits at the end of a deep valley carved by glaciers, surrounded by granite needles and the massive bulk of Mont Blanc. The town hums with climbers, hikers, and paragliders from around the world. First impressions: the scale of everything here is hard to grasp until you're standing in the middle of it.
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260808_123256.jpg" >}}
@@ -32,10 +32,10 @@ Chamonix sits in a deep valley carved by glaciers, surrounded by jagged granite 
 
 ## Day 2 · Aug 9 — North Balcony & Mer de Glace (北邊陽台 & 冰之海)
 
-**Route:** Grand Balcon Nord · Plan de l'Aiguille → Montenvers
+**Route:** Grand Balcon Nord — Plan de l'Aiguille → Montenvers (Mer de Glace)
 **Actual:** 12.43 km · 5h 22m · ↑170m ↓550m
 
-The Balcon Nord is a traversing path cut high above the valley, connecting the Aiguille du Midi cable car station to Montenvers. From up here you walk level while the valley floor lies 600m below. The trail ends at Montenvers station, where a cable car descends to the terminal moraine of the Mer de Glace — the largest glacier in France, its surface now receded far below the iron ladders visitors use to reach it.
+The Balcon Nord traverses high above the Chamonix valley with unobstructed views of the Mont Blanc massif. Starting from the Aiguille du Midi cable car mid-station at 2,310m, the path curves through boulder fields and snowfields before descending through forest to Montenvers. From there, a cable car brings you down to the Mer de Glace — the largest glacier in France — where iron ladders bolted into the rock face mark how far the ice has retreated over the past century.
 
 {{< komoot src="https://www.komoot.com/tour/3118583680/embed?share_token=atUtqQoBoOIGznfw8AGB3bBPBX4dTozx9BrG7CcS1T475uFMxG&layout=classic&profile=1" >}}
 
@@ -45,7 +45,12 @@ The Balcon Nord is a traversing path cut high above the valley, connecting the A
 
 ## Day 3 · Aug 10 — Glacier Hiking, Italy Side (冰川健行，義大利側)
 
-An early start for the Skyway Monte Bianco cable car from Courmayeur, ascending to Pointe Helbronner at 3,466m on the Italian slope of Mont Blanc. Up here the snow never fully melts, and the terrain is a mix of ice, bare rock, and the occasional dramatic serac. Looking north, the French side of the massif stretches out in an unbroken wall.
+**Route:** Pointe Helbronner → Aiguilles Marbrees
+**Actual:** ~3.12 km · 2h 37m (partial recording) · Altitude: 3,300–3,466m
+
+An early start to take the Skyway Monte Bianco cable car from Courmayeur up to Pointe Helbronner at 3,466m. Up here the terrain is permanent snow and exposed rock — the kind of ground where a slip has real consequences. The Pointe Helbronner to Aiguilles Marbrees crossing involves sections rated as technically hazardous, with sheer drops on both sides. Looking south: the Italian valley. Looking north: the French side and the full south face of Mont Blanc.
+
+{{< komoot src="https://www.komoot.com/tour/3222462802/embed?share_token=a1oLfo4DTNx45PM7nSlXWBTvV2OMynQ1eR9IntCoyuMQkxwRoF&layout=classic&profile=1" >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065041.jpg" >}}
@@ -85,14 +90,14 @@ An early start for the Skyway Monte Bianco cable car from Courmayeur, ascending 
 
 ---
 
-## Day 4 · Aug 11 — Pointe Helbronner → Aiguilles Marbrees (義大利側縱走)
+## Day 4 · Aug 11 — Lac Blanc & Two Lakes Hike (白湖健行，兩湖健行)
 
-**Route:** Pointe Helbronner → Aiguilles Marbrees
-**Actual:** 4.05 km · 3h 23m · ↑220m ↓220m · Hard · Altitude: 3,300–3,420m
+**Route:** Aiguilles Rouges → Lac Blanc → Lacs des Chéserys → Argentière
+**Actual:** 8.52 km · 4h 59m (partial recording) · ↑130m ↓1,140m · Hard
 
-A technical crossing on exposed glacier and rock terrain — the kind of route that requires crampons, confidence on steep ground, and an eye for route-finding. The sections marked "highly dangerous" are short, but they demand full attention. The reward is a perspective on Mont Blanc that very few hikers reach.
+The classic view of Mont Blanc — reflected in the clear alpine water of Lac Blanc with the Aiguilles rouges in the foreground. The trail starts high (cable car to the Aiguilles Rouges reserve) and drops through a series of glacial lakes: Lac Blanc at 2,352m, then the Lacs des Chéserys, before a long descent to the valley at Argentière. The Chamonix valley and its full array of peaks visible the whole way down.
 
-{{< komoot src="https://www.komoot.com/tour/3222462802/embed?share_token=a1oLfo4DTNx45PM7nSlXWBTvV2OMynQ1eR9IntCoyuMQkxwRoF&layout=classic&profile=1" >}}
+{{< komoot src="https://www.komoot.com/tour/3173612587/embed?share_token=axrj8uQrwEquX6PbvvPcFz5uG97B4dF1xHM8iR5FCYSP1WVSth&layout=classic&profile=1" >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_093024.jpg" >}}
@@ -115,14 +120,12 @@ A technical crossing on exposed glacier and rock terrain — the kind of route t
 
 ## Day 5 · Aug 12 — Grand Balcon Sud (南陽台)
 
-**Route:** Grand Balcon Sud
-**Actual:** 12.03 km · 5h 58m (with detour)
+**Route:** Le Brévent → Grand Balcon Sud → La Flégère
+**Actual:** 12.03 km · 5h 58m (with scenic detour) · ↑110m ↓710m · Hard
 
-The south-facing counterpart to the Balcon Nord — lower, warmer, and with a completely different character. The trail runs beneath the Aiguilles Rouges, looking across to the full span of the Mont Blanc massif. A longer day with a scenic detour that added several kilometers to the Komoot estimate.
+The south-facing counterpart to the Balcon Nord — same principle, completely different character. The trail runs beneath the Aiguilles Rouges, looking across the valley to the entire Mont Blanc massif. A longer day than expected, with a detour for views that added several kilometers to the planned route.
 
-<!-- KOMOOT: Replace [EMBED_URL] with the embed URL for Grand Balcon Sud from your Komoot links -->
-<!-- Open each remaining link, click Share → Embed → copy the iframe src URL -->
-{{< komoot src="[EMBED_URL_GRAND_BALCON_SUD]" >}}
+{{< komoot src="https://www.komoot.com/tour/3173489909/embed?share_token=a32gNyGB8wHWIGh46zexjgKXVh5DMm7Q78mi02RUQiOL2x5xs9&layout=classic&profile=1" >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260812_124235.jpg" >}}
@@ -134,20 +137,24 @@ The south-facing counterpart to the Balcon Nord — lower, warmer, and with a co
 ## Day 6 · Aug 13 — Via Ferrata des Evettes (鐵索攀岩)
 
 **Route:** Via Ferrata des Evettes
-**Actual:** 3.19 km · 2h 35m (partial recording)
+**Actual:** 3.19 km · 2h 35m (two segments merged, partial recording) · ↑220m ↓210m · Hard
 
-Clipping into iron rungs and cables bolted directly into the cliff face. Via ferrata puts you in positions that would require ropes and technical skill to reach otherwise — exposed ledges, vertical faces, a few hundred meters of air beneath your feet. More mentally demanding than physically.
+Clipping into iron rungs and cables bolted directly into vertical rock. Via ferrata puts you in positions that would otherwise require full climbing gear and technical training — exposed ledges, overhanging sections, a few hundred meters of air beneath your feet. The mental game is harder than the physical one.
 
-<!-- KOMOOT: Replace [EMBED_URL] with the Via Ferrata des Evettes embed URL -->
-{{< komoot src="[EMBED_URL_VIA_FERRATA]" >}}
+{{< komoot src="https://www.komoot.com/tour/3114077946/embed?share_token=axm04wFPcI44EIkhmMWecSm89AJEJzbVFo1xq2LVHvLcOmddfZ&layout=classic&profile=1" >}}
 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260813_120306.jpg" >}}
 
 ---
 
-## Day 7 · Aug 14 — Tramway du Mont-Blanc & Glacier de Bionnassay (齒軌小火車 & 比昂納塞冰川)
+## Day 7 · Aug 14 — Tramway du Mont-Blanc & Glacier de Bionnassay (TMB 齒軌小火車 & 比昂納塞冰川)
 
-The historic Tramway du Mont-Blanc — the highest rack railway in France, built in 1908 — winds up through forest and alpine meadow, past the treeline, to a terminus at 2,372m. From there, a short walk reaches the edge of the Bionnassay Glacier, one of the less-visited glaciers in the massif. No ice axe required.
+**Route:** Tramway du Mont-Blanc terminus → Glacier de Bionnassay
+**Komoot estimate:** 854m · 18 min
+
+The Tramway du Mont-Blanc — the highest rack railway in France, built in 1908 — winds from Saint-Gervais up through forest and alpine meadow to its terminus at Nid d'Aigle (2,372m). From there, a short walk reaches the toe of the Bionnassay Glacier. No technical gear, no crowds, and a completely different perspective on the massif than the more famous routes.
+
+{{< komoot src="https://www.komoot.com/tour/3197369397/embed?share_token=aHdXWGl7VlXdO7x3SMWIIpQEfx2AKPXK9LvtElADTyAWrwqKT7&layout=classic&profile=1" >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260814_110948.jpg" >}}
@@ -158,13 +165,12 @@ The historic Tramway du Mont-Blanc — the highest rack railway in France, built
 
 ## Day 8 · Aug 15 — La Jonction: Glacier des Bossons & Glacier de Taconnaz (博松冰川 & 塔科納冰川)
 
-**Route:** La Jonction
-**Actual:** 17.00 km · 8h 13m
+**Route:** Chalet du Glacier des Bossons → La Jonction
+**Actual:** 17.00 km · 8h 13m · ↑1,140m ↓1,150m · Hard
 
-The longest and most demanding day of the trip. La Jonction is a ridge of moraine where the Bossons and Taconnaz glaciers meet, at around 2,589m. Getting there involves a relentless climb through boulder fields, with the Bossons serac towers — some as tall as apartment blocks — visible overhead. The glaciers here are active: you can hear them creaking.
+The longest and hardest day of the trip. La Jonction is a moraine ridge at 2,589m where the Bossons and Taconnaz glaciers converge — you reach it by climbing for hours through boulder fields and unstable glacial debris, with the Bossons serac towers looming overhead. The seracs shift and calve: you can hear them. The views from La Jonction are unobstructed in every direction.
 
-<!-- KOMOOT: Replace [EMBED_URL] with the La Jonction embed URL -->
-{{< komoot src="[EMBED_URL_LA_JONCTION]" >}}
+{{< komoot src="https://www.komoot.com/tour/3173855778/embed?share_token=aTkFTvckvkXo8M1ASC9rQiy9wOMaTTjLlf4UN1b89sHnNUHKa0&layout=classic&profile=1" >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_095749.jpg" >}}
@@ -194,12 +200,11 @@ The longest and most demanding day of the trip. La Jonction is a ridge of morain
 ## Day 9 · Aug 16 — Border Hike: Les Grandes Otanes → Vallorcine (法瑞邊境健行)
 
 **Route:** Les Grandes Otanes → Vallorcine
-**Actual:** 3.78 km · 1h 17m
+**Actual:** 3.78 km · 1h 17m · ↑20m ↓280m · Moderate
 
-A shorter day, crossing along the Franco-Swiss border through quiet meadows above the Col des Montets. Vallorcine is the last village in the Chamonix valley before the Swiss border — small, unhurried, and connected to Chamonix by the scenic Mont Blanc Express.
+A shorter day: a descent from the Franco-Swiss border down to Vallorcine, the last village in the Chamonix valley before Switzerland. Quiet paths through forest, open meadows, and the kind of unhurried walking that's easy to skip when the bigger peaks are calling.
 
-<!-- KOMOOT: Replace [EMBED_URL] with the Border Hike embed URL -->
-{{< komoot src="[EMBED_URL_BORDER_HIKE]" >}}
+{{< komoot src="https://www.komoot.com/tour/3221866633/embed?share_token=aKWgsUnUShnNZjq19lm62IGGrIO40bSFav9v3ChaVNgpyAMV4d&layout=classic&profile=1" >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260816_105041.jpg" >}}
@@ -210,7 +215,7 @@ A shorter day, crossing along the Franco-Swiss border through quiet meadows abov
 
 ## Day 10 · Aug 17 — Skyway Monte Bianco (義大利 Skyway 空中纜車)
 
-A day spent entirely above 3,000m. The Skyway Monte Bianco is an engineering achievement as much as a tourist attraction — rotating panoramic cabins, glass floors, and an observation deck at Pointe Helbronner that puts you level with the summit ridge of Mont Blanc. On a clear day the Matterhorn and Monte Rosa are visible to the east.
+A day above 3,000m without a rope. The Skyway Monte Bianco is an engineering achievement alongside its function as a viewpoint — rotating panoramic gondolas that rise from Courmayeur to Pointe Helbronner at 3,466m. The deck looks directly onto the south face of Mont Blanc. On clear days: the Matterhorn, Monte Rosa, and Gran Paradiso are all visible. The ice and rock below looks very different from up here than it did when you were walking on it.
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_094420.jpg" >}}
@@ -224,13 +229,12 @@ A day spent entirely above 3,000m. The Skyway Monte Bianco is an engineering ach
 
 ## Day 11 · Aug 18 — Cycling to Rifugio Elena (騎腳踏車穿越義大利)
 
-**Route:** Courmayeur → Rifugio Elena, Aosta Valley
-**Actual:** 52.30 km · 6h 35m
+**Route:** Courmayeur → Val Ferret → Rifugio Elena, Aosta Valley
+**Actual:** 52.30 km · 6h 35m · ↑1,530m ↓1,530m · Hard
 
-Trading boots for pedals — a 52km ride through the Aosta Valley on the Italian side, finishing at Rifugio Elena, a mountain hut at the foot of the Grandes Jorasses. The climb is gradual for most of the route, then steep in the final stretch to the refuge. Long day on the bike.
+Trading boots for pedals. A 52km ride from Courmayeur through the Val Ferret on the Italian side, finishing at Rifugio Elena — a mountain hut at 2,060m at the foot of the Grandes Jorasses, one of the most technically demanding north faces in the Alps. The last section of climbing to the refuge is steep. The view from the hut is worth every meter of elevation.
 
-<!-- KOMOOT: Replace [EMBED_URL] with the Cycling embed URL -->
-{{< komoot src="[EMBED_URL_CYCLING]" >}}
+{{< komoot src="https://www.komoot.com/tour/2758420486/embed?share_token=aHaGs98lyRx62NpMnpxZi4mIsBhoY99500morak2YuTzMNJZh4&layout=classic&profile=1" >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260818_145534.jpg" >}}
@@ -247,13 +251,12 @@ Trading boots for pedals — a 52km ride through the Aosta Valley on the Italian
 
 ## Day 12 · Aug 19 — Rifugio Bonatti (博納提山屋)
 
-**Route:** Val Ferret Balcony Trail → Rifugio Bonatti
-**Actual:** 7.04 km · 2h 09m
+**Route:** Bivouac → Rifugio Bonatti → Glacier du Petit Mont Gruettaz
+**Actual:** 7.04 km · 2h 09m · ↑420m ↓360m · Moderate
 
-Named after Walter Bonatti, the Italian alpinist who pioneered some of the most difficult routes in the Alps, this refuge sits on a terrace above Val Ferret with a direct view of the north face of the Grandes Jorasses. A quiet trail through larch forest on the final hiking day.
+Named after Walter Bonatti — the Italian alpinist who opened some of the most demanding routes in the Alps, including a solo winter ascent of the Matterhorn's north face. The refuge sits on a terrace above Val Ferret with a direct view of the Grandes Jorasses and its hanging glaciers. A final day of hiking at a quieter pace.
 
-<!-- KOMOOT: Replace [EMBED_URL] with the Rifugio Bonatti embed URL -->
-{{< komoot src="[EMBED_URL_RIFUGIO_BONATTI]" >}}
+{{< komoot src="https://www.komoot.com/tour/3221847580/embed?share_token=a7cuStyQHB9a25Z5014dy7UbpkhpD9ZcLix46s63P138oOcGOB&layout=classic&profile=1" >}}
 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_161301.jpg" >}}
 
@@ -261,4 +264,4 @@ Named after Walter Bonatti, the Italian alpinist who pioneered some of the most 
 
 ## Day 13 · Aug 20 — Geneva & Departure (日內瓦，返程)
 
-The mountains give way to Lake Geneva and the clean geometry of the Swiss city. A last look at the Alps from the plane window, then back to reality.
+The mountains give way to the flat logic of the Swiss lakefront. A last look at the Alps from the train window on the way to the airport.
