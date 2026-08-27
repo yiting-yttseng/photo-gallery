@@ -26,6 +26,14 @@ body.list main.main h1,
 body.list h1 {
   text-align: left !important;
   margin-left: 0 !important;
+  transform: none !important;
+}
+
+body.list .page-header {
+  grid-column: 1 / -1;
+  width: 100%;
+  text-align: left !important;
+  display: block !important;
 }
 
 /* 相簿卡片樣式 */
