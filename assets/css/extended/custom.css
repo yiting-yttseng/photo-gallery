@@ -196,3 +196,18 @@ body.single h1.post-title {
   border-radius: 8px;
   cursor: zoom-in;
 }
+
+
+/* 單張直立照 - 置中，高度限制讓它不會佔滿整個畫面 */
+.img-portrait {
+  display: flex;
+  justify-content: center;
+  margin: 16px 0;
+}
+
+.img-portrait img {
+  max-height: 500px;
+  width: auto;
+  border-radius: 8px;
+  cursor: zoom-in;
+}
