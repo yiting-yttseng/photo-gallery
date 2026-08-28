@@ -17,7 +17,6 @@ Two weeks in the Alps — hiking trip, glacier hiking, via ferrata, and cycling 
 ## Day 1 · Aug 8 — Arrival (抵達夏慕尼)
 
 Chamonix sits at the end of a deep valley carved by glaciers, surrounded by granite needles and the massive bulk of Mont Blanc.
-We lived in the apartment from Happy Rental, which equiped with a samll kitchen and sofa bed, and it costed around 900 euros for 8 days.
 
 ---
 
@@ -30,12 +29,8 @@ North Balcony is a popular route running from the middle station of the Aiguille
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_123256.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_080812.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_134000.jpg" >}}
-{{< /row >}}
-
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_143556.jpg" >}}
-{{< img src="" >}}
 {{< /row >}}
 
 
@@ -47,6 +42,7 @@ North Balcony is a popular route running from the middle station of the Aiguille
 
 From there, iron ladders bolted into the rock face bring you down to the Mer de Glace — the largest glacier in France. At the bottom, you can enter an artificial ice cave carved into the glacier itself. The ladders mark how far the ice has retreated over the decades: what was once at eye level now requires a long descent to reach. From Montenvers, a cog railway returns you to Chamonix.
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_143556.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_155828.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_145153.jpg" >}}
 {{< /row >}}
