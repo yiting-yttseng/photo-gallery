@@ -84,6 +84,8 @@ From Chamonix, we took the Aiguille du Midi cable car to the summit at 3,842m. T
 We continued on the Panoramic Mont-Blanc gondola across to Pointe Helbronner on the Italian side at 3,466m. Below the gondola, enormous crevasses split the surface of the Vallée Blanche glacier — a view that's difficult to grasp from the ground.
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081934.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_094420.jpg" >}}
+
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_141552_0.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073848.jpg" >}}
 {{< /row >}}
@@ -196,9 +198,11 @@ The Tramway du Mont-Blanc — the highest rack railway in France, built in 1908 
 
 The ride takes about one hour. Advance online booking is required — even if you hold a multi-day pass, you still need to reserve a seat online to guarantee a place. Standing room is available but the steep incline makes it uncomfortable. On the way down, we got off one stop early at Gare de Bellevue and walked five minutes to the Bellevue cable car, which brings you quickly back to Les Houches in the valley.
 
+
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260814_110948.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260814_120228.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787942395/20260814_123305.jpg" >}}
 {{< /row >}}
 
 {{< komoot src="https://www.komoot.com/tour/3197369397/embed?share_token=aHdXWGl7VlXdO7x3SMWIIpQEfx2AKPXK9LvtElADTyAWrwqKT7&layout=compact" >}}
@@ -214,27 +218,32 @@ The longest and hardest day of the trip. La Jonction is a moraine ridge at 2,589
 
 The route starts with the Bossons chairlift up to the Chalet du Glacier des Bossons, where you get your first close view of the Bossons Glacier. From there, the trail climbs steadily through forest and then open rocky terrain. As you gain altitude, the path runs along a ridge between the two glaciers — the Bossons on one side, the Taconnaz on the other. Higher up, both glaciers are visible simultaneously from the same spot. At La Jonction itself, you are standing at the point where the ice from above converges and begins its slow descent. The seracs shift and occasionally calve — you can hear them.
 
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_123257_0.jpg" >}}
+
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_095749.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_134707.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_123310.jpg" >}}
+{{< /row >}}
+
+{{< img-wide src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_120113.jpg" >}}
+
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_115728.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_101131.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_111026.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_115728.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_120113.jpg" >}}
+
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_095749.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_120928.jpg" >}}
 {{< /row >}}
 
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_123257_0.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_123310.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_124719.jpg" >}}
-{{< /row >}}
+
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_124741.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_134707.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_124719.jpg" >}}
 {{< /row >}}
 
 {{< komoot src="https://www.komoot.com/tour/3173855778/embed?share_token=aTkFTvckvkXo8M1ASC9rQiy9wOMaTTjLlf4UN1b89sHnNUHKa0&layout=compact" >}}
@@ -265,10 +274,11 @@ The Skyway Monte Bianco, opened in 2015, rises from Courmayeur to Pointe Helbron
 
 The deck at Pointe Helbronner looks directly onto the south face of Mont Blanc. At the mid-station, there is a small alpine botanical garden with plants collected from across the Alps. The museum inside documents the history of the line, with the original cars and old photographs of the previous system on display.
 
-{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_090952.jpg" >}}
+{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_091023.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_094420.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_104653.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_114324.jpg" >}}
 {{< /row >}}
 
 ---
@@ -288,14 +298,15 @@ On the return, we detoured through Val Vény to the Lago del Miage. Bikes must b
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260818_151736.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787940623/20260818_150342.jpg" >}}
+{{< /row >}}
+
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787940628/20260818_181711.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260818_181845.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260818_184424_1.jpg" >}}
 {{< /row >}}
 
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787940623/20260818_150342.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787940628/20260818_181711.jpg" >}}
-{{< /row >}}
 
 {{< komoot src="https://www.komoot.com/tour/2758420486/embed?share_token=aHaGs98lyRx62NpMnpxZi4mIsBhoY99500morak2YuTzMNJZh4&layout=compact" >}}
 
@@ -310,13 +321,14 @@ We took the bus to Val Ferret and followed the Italian TMB balcony route. What m
 
 Along the way, the hillside is dotted with ruins of old stone buildings — former alpine pastoral shelters, their walls still standing but roofs long gone. Halfway along the route, Rifugio Bonatti sits on a terrace with a direct view of the Grandes Jorasses and its hanging glaciers.
 
-{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_160624.jpg" >}}
+
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_145534.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_154514.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_145534.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_150214.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_161301.jpg" >}}
 {{< /row >}}
