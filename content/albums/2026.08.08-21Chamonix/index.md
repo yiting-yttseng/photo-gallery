@@ -88,26 +88,27 @@ We continued on the Panoramic Mont-Blanc gondola across to Pointe Helbronner on 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073848.jpg" >}}
 {{< /row >}}
 
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081226.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073814.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073948.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_120502_0.jpg" >}}
+{{< /row >}}
 
 We joined a [guided glacier hiking tour](https://www.chamonix-guides.com/en/activities/details/glacier-hiking-hike-glacier-du-geant) organised by Compagnie des Guides de Chamonix. It was my first time using an ice axe to move across steep snow.
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_100233.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_143905.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_080133.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_100236.jpg" >}}
 {{< /row >}}
 
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073814.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073948.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081226.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_120502_0.jpg" >}}
-{{< /row >}}
+
 
 On the Pointe Helbronner terrace, you could see many tents pitched directly on the snow — people who had spent the night at altitude, a common sight on this side of the massif.
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_100236.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_080133.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_114819.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_114839.jpg" >}}
 {{< /row >}}
@@ -121,25 +122,28 @@ On the Pointe Helbronner terrace, you could see many tents pitched directly on t
 **Route:** Aiguilles Rouges Reserve → Lac Blanc → Lacs des Chéserys → Argentière
 **Actual:** 8.52 km · 4h 59m (partial recording) · ↑130m ↓1,140m
 
-This route follows the classic view of the Mont Blanc massif — on calm days, Lac Blanc reflects the surrounding peaks in perfect stillness. The trail passes through the Aiguilles Rouges Nature Reserve, visiting two alpine lakes before a long descent to Argentière.
-
-From different points along the route, you can look across at the Bossons Glacier, the Taconnaz Glacier, and the Mer de Glace — three of the major glaciers on the French side of the massif. The Argentière Glacier, which would normally be visible at the far end of the valley, was closed to visitors this summer for renovation works.
+This route follows the classic view of the Mont Blanc massif. From different points along the route, you can look across at the Bossons Glacier, the Taconnaz Glacier, and the Mer de Glace — three of the major glaciers on the French side of the massif. The Argentière Glacier, which would normally be visible at the far end of the valley, was closed to visitors this summer for renovation works.
 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_094619.jpg" >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_094557.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_095629.jpg" >}}
+{{< /row >}}
+
+{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_093024.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_093302.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_105248.jpg" >}}
 {{< /row >}}
 
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_094557.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_095629.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_093302.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_101258.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_123459.jpg" >}}
 {{< /row >}}
 
+On calm days, Lac Blanc reflects the surrounding peaks in perfect stillness. The trail passes through the Aiguilles Rouges Nature Reserve, visiting two alpine lakes before a long descent to Argentière.
 
 {{< img-wide src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_114230.jpg" >}}
 
@@ -159,8 +163,9 @@ At the Planpraz-Brévent junction — where the two cable car lines meet — the
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260812_124959_1.jpg" >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260812_132030.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260812_120010.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260812_124235.jpg" >}}
-
 {{< /row >}}
 
 {{< komoot src="https://www.komoot.com/tour/3173489909/embed?share_token=a32gNyGB8wHWIGh46zexjgKXVh5DMm7Q78mi02RUQiOL2x5xs9&layout=compact" >}}
@@ -277,16 +282,19 @@ We rented e-bikes from Hobo Camping at €75 per day. The route starts from the 
 
 At the base of the climb to Rifugio Elena, you can either park the bike and walk or ride all the way up. The final section has a gradient above 10%, on a loose gravel surface shared with hikers — slippery and narrow. We chose to ride.
 
-On the return, we detoured through Val Vény to the Lago del Miage. Bikes must be left at Rifugio Combal; the lake is 5–10 minutes on foot from there. The glacier that feeds the lake has retreated significantly, leaving only a small pool of milky blue water. The viewpoint compensates: from the ridge above, you can look out over the entire Val Vény floodplain — rivers, wetlands and debris fans spread across the valley floor.
+On the return, we detoured through Val Vény to the Lago del Miage. Bikes must be left at Rifugio Combal; the lake is 5–10 minutes on foot from there. The Miage Glacier  is a debris-covered glacier in the upper Aosta Valley. The glacier that feeds the lake has retreated significantly, leaving only a small pool of milky blue water. The viewpoint compensates: from the ridge above, you can look out over the entire Val Vény floodplain — rivers, wetlands and debris fans spread across the valley floor.
+
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260818_182328.jpg" >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260818_151736.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260818_181845.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260818_184424_1.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260818_182328.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260818_184424.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787940623/20260818_150342.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787940628/20260818_181711.jpg" >}}
 {{< /row >}}
 
 {{< komoot src="https://www.komoot.com/tour/2758420486/embed?share_token=aHaGs98lyRx62NpMnpxZi4mIsBhoY99500morak2YuTzMNJZh4&layout=compact" >}}
@@ -303,15 +311,17 @@ We took the bus to Val Ferret and followed the Italian TMB balcony route. What m
 Along the way, the hillside is dotted with ruins of old stone buildings — former alpine pastoral shelters, their walls still standing but roofs long gone. Halfway along the route, Rifugio Bonatti sits on a terrace with a direct view of the Grandes Jorasses and its hanging glaciers.
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_145534.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_150214.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_160624.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_154514.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_160624.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_145534.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_150214.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260819_161301.jpg" >}}
 {{< /row >}}
+
+
 
 {{< komoot src="https://www.komoot.com/tour/3221847580/embed?share_token=a7cuStyQHB9a25Z5014dy7UbpkhpD9ZcLix46s63P138oOcGOB&layout=compact" >}}
 
