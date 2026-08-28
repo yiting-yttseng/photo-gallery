@@ -186,15 +186,14 @@ body.single h1.post-title {
 
 /* 寬景照片 - 置中、限制最大寬度 */
 .img-wide {
-  text-align: center;
-  margin: 16px auto;
-  max-width: 85%;
+  max-width: 100%;
+  margin: 16px 0;
 }
-
 .img-wide img {
   width: 100%;
   border-radius: 8px;
   cursor: zoom-in;
+  display: block;
 }
 
 
@@ -204,10 +203,30 @@ body.single h1.post-title {
   justify-content: center;
   margin: 16px 0;
 }
-
 .img-portrait img {
-  max-height: 500px;
-  width: auto;
+  width: 50%;
   border-radius: 8px;
   cursor: zoom-in;
+}
+
+/* img-row 改成固定高度（同長不同寬） */
+.img-row {
+  display: flex;
+  gap: 12px;
+  margin: 16px 0;
+  height: 280px;
+}
+.img-row .img-single {
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.img-row .img-single img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: zoom-in;
+  border-radius: 8px;
 }
