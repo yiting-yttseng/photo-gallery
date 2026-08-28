@@ -6,6 +6,27 @@ summary: " "
 cover:
   image: "https://res.cloudinary.com/cx8nvdpl/image/upload/20260814_110948.jpg"
   alt: "Chamonix 2026"
+tags:
+  - "France (法國)"
+  - "Chamonix (夏慕尼)"
+  - "Mont Blanc (白朗峰)"
+  - "Aiguille du Midi (南針峰)"
+  - "Mer de Glace (冰之海)"
+  - "Lac Blanc (白湖)"
+  - "Lacs des Chéserys (車色黑利湖)"
+  - "Tramway du Mont-Blanc (TMB 齒軌小列車)"
+  - "Glacier de Bionnassay (比昂納塞冰川)"
+  - "Glacier des Bossons (博松冰川)"
+  - "Glacier de Taconnaz (塔庫納冰川)"
+  - "Courmayeur (庫馬約爾)"
+  - "Val Ferret"
+  - "Val Veny"
+  - "Skyway Monte Bianco (空中纜車)"
+  - "Pointe Helbronner"
+  - "Glacier Hiking (冰川健行)"
+  - "Via Ferrata (鐵索攀岩)"
+  - "Cycling (自行車)"
+  
 ---
 
 **Aug 8–21, 2026 · Chamonix-Mont-Blanc (夏慕尼), France**
