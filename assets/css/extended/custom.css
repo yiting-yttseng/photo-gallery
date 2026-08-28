@@ -231,3 +231,21 @@ body.single h1.post-title {
   border-radius: 8px;
 }
 */
+
+/* Topo 圖 + Komoot 並排 */
+.side-by-side {
+  display: flex;
+  gap: 16px;
+  margin: 16px 0;
+  align-items: flex-start;
+}
+.side-left {
+  flex: 0 0 40%;
+}
+.side-right {
+  flex: 1;
+}
+.side-left img {
+  width: 100%;
+  border-radius: 8px;
+}
