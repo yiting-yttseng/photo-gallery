@@ -57,20 +57,36 @@ From there, iron ladders bolted into the rock face bring you down to the Mer de 
 **Route:** Glacier du Géant — guided glacier hiking tour
 **Actual:** ~3.12 km · 2h 37m (partial recording) · Altitude: 3,300–3,466m
 
-From Chamonix, we took the Aiguille du Midi cable car to the summit at 3,842m, then continued on the Panoramic Mont-Blanc gondola across to Pointe Helbronner on the Italian side at 3,466m. Below the gondola, enormous crevasses split the surface of the Vallée Blanche glacier — a view that's difficult to grasp from the ground.
+From Chamonix, we took the Aiguille du Midi cable car to the summit at 3,842m. The morning alpine light on the high snowfields was something I hadn't expected to like as much as I did.
 
-We joined a [guided glacier hiking tour](https://www.chamonix-guides.com/en/activities/details/glacier-hiking-hike-glacier-du-geant) organised by Compagnie des Guides de Chamonix. It was my first time using an ice axe to move across steep snow, and the morning alpine light on the high snowfields was something I hadn't expected to like as much as I did.
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065104.jpg" >}}
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065041.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065056.jpg" >}}
+{{< /row >}}
+
+We continued on the Panoramic Mont-Blanc gondola across to Pointe Helbronner on the Italian side at 3,466m. Below the gondola, enormous crevasses split the surface of the Vallée Blanche glacier — a view that's difficult to grasp from the ground.
+
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073814.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081226.jpg" >}}
+{{< /row >}}
+
+{{< img-wide src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073700.jpg" >}}
+
+
+We joined a [guided glacier hiking tour](https://www.chamonix-guides.com/en/activities/details/glacier-hiking-hike-glacier-du-geant) organised by Compagnie des Guides de Chamonix. It was my first time using an ice axe to move across steep snow.
+
 
 On the Pointe Helbronner terrace, you could see many tents pitched directly on the snow — people who had spent the night at altitude, a common sight on this side of the massif.
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065041.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065056.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065104.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_100236.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_114819.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_114839.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065104_1.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065448.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_070320.jpg" >}}
 {{< /row >}}
@@ -78,23 +94,16 @@ On the Pointe Helbronner terrace, you could see many tents pitched directly on t
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_071158.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_071217.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073700.jpg" >}}
 {{< /row >}}
 
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073814.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_080133.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081226.jpg" >}}
-{{< /row >}}
+
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081934.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_100236.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_114819.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_080133.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_114839.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_120502_0.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_141552_0.jpg" >}}
 {{< /row >}}
