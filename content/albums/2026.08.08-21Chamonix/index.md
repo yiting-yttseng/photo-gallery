@@ -10,13 +10,14 @@ cover:
 
 **Aug 8–21, 2026 · Chamonix-Mont-Blanc (夏慕尼), France**
 
-Two weeks in the Alps — glacier hiking, via ferrata, and cycling through the Italian Val Ferret.
+Two weeks in the Alps — hiking trip, glacier hiking, via ferrata, and cycling around Chamonix and Courmayeur.
 
 ---
 
 ## Day 1 · Aug 8 — Arrival (抵達夏慕尼)
 
 Chamonix sits at the end of a deep valley carved by glaciers, surrounded by granite needles and the massive bulk of Mont Blanc.
+We lived in the apartment from Happy Rental, which equiped with a samll kitchen and sofa bed, and it costed around 900 euros for 8 days.
 
 ---
 
@@ -27,8 +28,6 @@ Chamonix sits at the end of a deep valley carved by glaciers, surrounded by gran
 
 North Balcony is a popular route running from the middle station of the Aiguille du Midi cable car down to the Mer de Glace. The trail traverses high above the valley with views across the entire Mont Blanc massif before descending through forest to Montenvers station.
 
-From there, iron ladders bolted into the rock face bring you down to the Mer de Glace — the largest glacier in France. At the bottom, you can enter an artificial ice cave carved into the glacier itself. The ladders mark how far the ice has retreated over the decades: what was once at eye level now requires a long descent to reach. From Montenvers, a cog railway returns you to Chamonix.
-
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_123256.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_134000.jpg" >}}
@@ -36,8 +35,22 @@ From there, iron ladders bolted into the rock face bring you down to the Mer de 
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_143556.jpg" >}}
+{{< img src="" >}}
+{{< /row >}}
+
+
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_083422.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_095124.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_150727-2.jpg" >}}
 {{< /row >}}
+
+From there, iron ladders bolted into the rock face bring you down to the Mer de Glace — the largest glacier in France. At the bottom, you can enter an artificial ice cave carved into the glacier itself. The ladders mark how far the ice has retreated over the decades: what was once at eye level now requires a long descent to reach. From Montenvers, a cog railway returns you to Chamonix.
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_155828.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_145153.jpg" >}}
+{{< /row >}}
+
 
 {{< komoot src="https://www.komoot.com/tour/3118583680/embed?share_token=atUtqQoBoOIGznfw8AGB3bBPBX4dTozx9BrG7CcS1T475uFMxG&layout=compact" >}}
 
