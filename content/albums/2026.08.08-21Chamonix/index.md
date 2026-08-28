@@ -80,9 +80,9 @@ From Chamonix, we took the Aiguille du Midi cable car to the summit at 3,842m. T
 {{< /row >}}
 
 We continued on the Panoramic Mont-Blanc gondola across to Pointe Helbronner on the Italian side at 3,466m. Below the gondola, enormous crevasses split the surface of the Vallée Blanche glacier — a view that's difficult to grasp from the ground.
-{{< img >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081226.jpg" >}}
-{{< /img >}}
+
+{{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081226.jpg" >}}
+
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787929115/20260810_073848.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073814.jpg" >}}
