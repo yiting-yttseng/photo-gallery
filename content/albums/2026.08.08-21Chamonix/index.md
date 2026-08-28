@@ -102,9 +102,8 @@ On the Pointe Helbronner terrace, you could see many tents pitched directly on t
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787689053/20260810_080133.jpg" >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_080133.jpg
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_080133.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787929120/20260810_073948.jpg" >}}
-
 {{< /row >}}
 
 {{< row >}}
