@@ -85,26 +85,21 @@ We continued on the Panoramic Mont-Blanc gondola across to Pointe Helbronner on 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081934.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_141552_0.jpg" >}}
-{{< /row >}}
-
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073848.jpg" >}}
-
-
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073814.jpg" >}}
-
-
-
-
+{{< /row >}}
 
 
 We joined a [guided glacier hiking tour](https://www.chamonix-guides.com/en/activities/details/glacier-hiking-hike-glacier-du-geant) organised by Compagnie des Guides de Chamonix. It was my first time using an ice axe to move across steep snow.
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_100233.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v20260810_143905.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_143905.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_080133.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073814.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073948.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081226.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_120502_0.jpg" >}}
 {{< /row >}}
@@ -112,21 +107,10 @@ We joined a [guided glacier hiking tour](https://www.chamonix-guides.com/en/acti
 On the Pointe Helbronner terrace, you could see many tents pitched directly on the snow — people who had spent the night at altitude, a common sight on this side of the massif.
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_080133.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073948.jpg" >}}
-{{< /row >}}
-
-{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_100236.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_114819.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_114839.jpg" >}}
 {{< /row >}}
-
-
-
-
-
-
 
 {{< komoot src="https://www.komoot.com/tour/3222462802/embed?share_token=a1oLfo4DTNx45PM7nSlXWBTvV2OMynQ1eR9IntCoyuMQkxwRoF&layout=compact" >}}
 
@@ -141,22 +125,23 @@ This route follows the classic view of the Mont Blanc massif — on calm days, L
 
 From different points along the route, you can look across at the Bossons Glacier, the Taconnaz Glacier, and the Mer de Glace — three of the major glaciers on the French side of the massif. The Argentière Glacier, which would normally be visible at the far end of the valley, was closed to visitors this summer for renovation works.
 
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_094619.jpg" >}}
+
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_093024.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_093302.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_094557.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_105248.jpg" >}}
 {{< /row >}}
 
+
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_094619.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_094557.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_095629.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_101258.jpg" >}}
 {{< /row >}}
 
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_105248.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_114230.jpg" >}}
-{{< /row >}}
+
+{{< img-wide src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260811_114230.jpg" >}}
 
 {{< komoot src="https://www.komoot.com/tour/3173612587/embed?share_token=axrj8uQrwEquX6PbvvPcFz5uG97B4dF1xHM8iR5FCYSP1WVSth&layout=compact" >}}
 
@@ -171,9 +156,11 @@ The south-facing counterpart to the Balcon Nord. From the top of the cable car, 
 
 At the Planpraz-Brévent junction — where the two cable car lines meet — there is a large terrace platform where paragliders launch almost constantly throughout the afternoon. From here you can watch the Brévent gondola rise slowly up the face while gliders spiral out overhead. A good place to stop and take photos before continuing along the balcony.
 
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260812_124959_1.jpg" >}}
+
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260812_124235.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260812_124959_1.jpg" >}}
+
 {{< /row >}}
 
 {{< komoot src="https://www.komoot.com/tour/3173489909/embed?share_token=a32gNyGB8wHWIGh46zexjgKXVh5DMm7Q78mi02RUQiOL2x5xs9&layout=compact" >}}
