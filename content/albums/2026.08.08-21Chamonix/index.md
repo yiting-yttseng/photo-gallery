@@ -82,13 +82,18 @@ We continued on the Panoramic Mont-Blanc gondola across to Pointe Helbronner on 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_120502_0.jpg" >}}
 {{< /row >}}
 
-{{< img-wide src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073700.jpg" >}}
-
 
 We joined a [guided glacier hiking tour](https://www.chamonix-guides.com/en/activities/details/glacier-hiking-hike-glacier-du-geant) organised by Compagnie des Guides de Chamonix. It was my first time using an ice axe to move across steep snow.
 
 
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787929127/20260810_100233.jpg" >}}
+
 On the Pointe Helbronner terrace, you could see many tents pitched directly on the snow — people who had spent the night at altitude, a common sight on this side of the massif.
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_080133.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787929120/20260810_073948.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787929115/20260810_073848.jpg" >}}
+{{< /row >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_100236.jpg" >}}
@@ -97,21 +102,16 @@ On the Pointe Helbronner terrace, you could see many tents pitched directly on t
 {{< /row >}}
 
 
+{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_071158.jpg" >}}
-
-
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_152905.jpg" >}}
+{{< /row >}}
 
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081934.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_080133.jpg" >}}
-{{< /row >}}
-
-{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_141552_0.jpg" >}}
 {{< /row >}}
-
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_152905.jpg" >}}
 
 {{< komoot src="https://www.komoot.com/tour/3222462802/embed?share_token=a1oLfo4DTNx45PM7nSlXWBTvV2OMynQ1eR9IntCoyuMQkxwRoF&layout=compact" >}}
 
