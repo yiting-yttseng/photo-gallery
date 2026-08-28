@@ -28,10 +28,11 @@ Chamonix sits at the end of a deep valley carved by glaciers, surrounded by gran
 North Balcony is a popular route running from the middle station of the Aiguille du Midi cable car down to the Mer de Glace. 
 The trail traverses high above the valley, looking across at the Aiguilles Rouges（紅針山群） on the opposite side — the mountain range where Brévent, Planpraz, Flégère and Index cable car stations are visible on the facing slope.
 
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_134000.jpg" >}}
+
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_123256.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_080812.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_134000.jpg" >}}
 {{< /row >}}
 
 
@@ -44,8 +45,8 @@ The trail traverses high above the valley, looking across at the Aiguilles Rouge
 From there, iron ladders bolted into the rock face bring you down to the Mer de Glace — the largest glacier in France. At the bottom, you can enter an artificial ice cave carved into the glacier itself. The ladders mark how far the ice has retreated over the decades: what was once at eye level now requires a long descent to reach. From Montenvers, a cog railway returns you to Chamonix.
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_143556.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_155828.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_145153.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_155828.jpg" >}}
 {{< /row >}}
 
 
@@ -61,16 +62,24 @@ From there, iron ladders bolted into the rock face bring you down to the Mer de 
 From Chamonix, we took the Aiguille du Midi cable car to the summit at 3,842m. The morning alpine light on the high snowfields was something I hadn't expected to like as much as I did.
 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065104.jpg" >}}
+
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065041.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065056.jpg" >}}
 {{< /row >}}
 
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065448.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_070320.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_071217.jpg" >}}
+{{< /row >}}
+
 We continued on the Panoramic Mont-Blanc gondola across to Pointe Helbronner on the Italian side at 3,466m. Below the gondola, enormous crevasses split the surface of the Vallée Blanche glacier — a view that's difficult to grasp from the ground.
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073814.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081226.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073814.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_120502_0.jpg" >}}
 {{< /row >}}
 
 {{< img-wide src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073700.jpg" >}}
@@ -87,15 +96,9 @@ On the Pointe Helbronner terrace, you could see many tents pitched directly on t
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_114839.jpg" >}}
 {{< /row >}}
 
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065448.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_070320.jpg" >}}
-{{< /row >}}
 
-{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_071158.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_071217.jpg" >}}
-{{< /row >}}
+
 
 
 
@@ -105,7 +108,6 @@ On the Pointe Helbronner terrace, you could see many tents pitched directly on t
 {{< /row >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_120502_0.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_141552_0.jpg" >}}
 {{< /row >}}
 
