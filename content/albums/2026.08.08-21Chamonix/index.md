@@ -213,7 +213,7 @@ The ride takes about one hour. Advance online booking is required — even if yo
 
 The longest and hardest day of the trip. La Jonction is a moraine ridge at 2,589m where the Bossons and Taconnaz glaciers converge.
 
-The route starts with the Bossons chairlift up to the Chalet du Glacier des Bossons, where you get your first close view of the Bossons Glacier. From there, the trail climbs steadily through forest and then open rocky terrain. As you gain altitude, the path runs along a ridge between the two glaciers — the Bossons on one side, the Taconnaz on the other. Higher up, both glaciers are visible simultaneously from the same spot. At La Jonction itself, you are standing at the point where the ice from above converges and begins its slow descent. The seracs shift and occasionally calve — you can hear them.
+The route starts with the Bossons chairlift up to the Chalet du Glacier des Bossons, where you get your first close view of the Bossons Glacier. From there, the trail climbs steadily through forest and then open rocky terrain. As you gain altitude, the path runs along a ridge between the two glaciers — the Bossons on one side, the Taconnaz on the other. Higher up, both glaciers are visible simultaneously from the same spot. The seracs shift and occasionally calve — you can hear them.
 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_123310.jpg" >}}
 
@@ -221,15 +221,17 @@ The route starts with the Bossons chairlift up to the Chalet du Glacier des Boss
 {{< img-wide src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_120113.jpg" >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_124741.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_124719.jpg" >}}
+{{< /row >}}
+
+{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_115728.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_101131.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_111026.jpg" >}}
 {{< /row >}}
 
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_124741.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_124719.jpg" >}}
-{{< /row >}}
+At La Jonction itself, you are standing at the point where the ice from above converges and begins its slow descent. 
 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787944848/20260815_133520.jpg" >}}
 
