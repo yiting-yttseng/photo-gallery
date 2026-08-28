@@ -44,7 +44,7 @@ Chamonix sits at the end of a deep valley carved by glaciers, surrounded by gran
 ## Day 2 · Aug 9 — North Balcony & Mer de Glace (北邊陽台 & 冰之海)
 
 **Route:** Grand Balcon Nord — Plan de l'Aiguille → Montenvers
-**Actual:** 12.43 km · 5h 22m · ↑170m ↓550m
+**Actual:** 12.43 km · 5h 22m 
 
 North Balcony is a popular route running from the middle station of the Aiguille du Midi cable car down to the Mer de Glace. 
 The trail traverses high above the valley, looking across at the Aiguilles Rouges（紅針山群） on the opposite side — the mountain range where Brévent, Planpraz, Flégère and Index cable car stations are visible on the facing slope.
@@ -78,7 +78,7 @@ From there, iron ladders bolted into the rock face bring you down to the Mer de 
 ## Day 3 · Aug 10 — Glacier Hiking, Italy Side (冰川健行，義大利側)
 
 **Route:** Glacier du Géant — guided glacier hiking tour
-**Actual:** ~3.12 km · 2h 37m (partial recording) · Altitude: 3,300–3,466m
+**Actual:** ~3.12 km · 2h 37m (half recording) · Altitude: 3,300–3,466m
 
 From Chamonix, we took the Aiguille du Midi cable car to the summit at 3,842m. The morning alpine light on the high snowfields was something I hadn't expected to like as much as I did.
 
@@ -140,7 +140,7 @@ On the Pointe Helbronner terrace, you could see many tents pitched directly on t
 ## Day 4 · Aug 11 — Lac Blanc & Two Lakes Hike (白湖健行，兩湖健行)
 
 **Route:** Aiguilles Rouges Reserve → Lac Blanc → Lacs des Chéserys → Argentière
-**Actual:** 8.52 km · 4h 59m (partial recording) · ↑130m ↓1,140m
+**Actual:** 8.52 km · 4h 59m (partial recording) 
 
 This route follows the classic view of the Mont Blanc massif. From different points along the route, you can look across at the Bossons Glacier, the Taconnaz Glacier, and the Mer de Glace — three of the major glaciers on the French side of the massif. The Argentière Glacier, which would normally be visible at the far end of the valley, was closed to visitors this summer for renovation works.
 
@@ -174,7 +174,7 @@ On calm days, Lac Blanc reflects the surrounding peaks in perfect stillness. The
 ## Day 5 · Aug 12 — Grand Balcon Sud (南陽台)
 
 **Route:** Le Brévent → Grand Balcon Sud → La Flégère
-**Actual:** 12.03 km · 5h 58m (with scenic detour) · ↑110m ↓710m
+**Actual:** 12.03 km · 5h 58m (with scenic detour) 
 
 The south-facing counterpart to the Balcon Nord. From the top of the cable car, Mont Blanc, the Aiguille du Midi, the Bossons Glacier and the Taconnaz Glacier are all clearly visible across the valley.
 
@@ -195,7 +195,6 @@ At the Planpraz-Brévent junction — where the two cable car lines meet — the
 ## Day 6 · Aug 13 — Via Ferrata des Evettes (鐵索攀岩)
 
 **Route:** Via Ferrata des Evettes · Grade B/C
-**Actual:** 3.19 km · 2h 35m (two segments merged, partial recording)
 
 A short but busy via ferrata route with a direct view over the entire Mont Blanc massif. The route is graded B/C and includes one section of slightly overhanging rock where you need to hold your own weight against the wall — arm strength matters more here than on easier routes.
 
@@ -205,6 +204,15 @@ We joined a group experience organised by [Compagnie des Guides de Chamonix](htt
 
 {{< komoot src="https://www.komoot.com/tour/3114077946/embed?share_token=axm04wFPcI44EIkhmMWecSm89AJEJzbVFo1xq2LVHvLcOmddfZ&layout=compact" >}}
 
+
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="flex:0 0 38%;">
+    <img src="https://res.cloudinary.com/cx8nvdpl/image/upload/Ferrata_des_Evettes_-_Chamonix.png" style="width:100%; border-radius:8px;" />
+  </div>
+  <div style="flex:1;">
+    <iframe src="https://www.komoot.com/tour/3114077946/embed?share_token=axm04wFPcI44EIkhmMWecSm89AJEJzbVFo1xq2LVHvLcOmddfZ&layout=compact" width="100%" height="400" frameborder="0"></iframe>
+  </div>
+</div>
 ---
 
 ## Day 7 · Aug 14 — Tramway du Mont-Blanc & Glacier de Bionnassay (TMB 齒軌小火車 & 比昂納塞冰川)
@@ -230,7 +238,7 @@ The ride takes about one hour. Advance online booking is required — even if yo
 ## Day 8 · Aug 15 — La Jonction: Glacier des Bossons & Glacier de Taconnaz (博松冰川 & 塔科納冰川)
 
 **Route:** Glacier des Bossons chairlift → Chalet du Glacier des Bossons → La Jonction
-**Actual:** 17.00 km · 8h 13m · ↑1,140m ↓1,150m
+**Actual:** 17.00 km · 8h 13m 
 
 The longest and hardest day of the trip. La Jonction is a moraine ridge at 2,589m where the Bossons and Taconnaz glaciers converge.
 
@@ -269,7 +277,6 @@ At La Jonction itself, you are standing at the point where the ice from above co
 ## Day 9 · Aug 16 — Border Hike: Le Tour → Vallorcine (法瑞邊境健行)
 
 **Route:** Le Tour → Charamillon → Autannes → Refuge du Col de Balme → Vallorcine
-**Actual:** 3.78 km · 1h 17m · ↑20m ↓280m
 
 We took the bus to Le Tour, then two cable cars in sequence — first to Charamillon, then up to Autannes — arriving at an open plateau of alpine meadows with cows grazing in every direction. The Refuge du Col de Balme sits at the col itself and is a well-known waypoint on the Tour du Mont Blanc circuit. About an hour's walk brings you down to the Vallorcine cable car station. From Vallorcine, the Mont Blanc Express train returns to Chamonix.
 
@@ -307,7 +314,7 @@ The deck at Pointe Helbronner looks directly onto the south face of Mont Blanc. 
 ## Day 11 · Aug 18 — Cycling to Rifugio Elena (騎腳踏車穿越義大利)
 
 **Route:** Courmayeur → Val Ferret → Rifugio Elena
-**Actual:** 52.30 km · 6h 35m · ↑1,530m ↓1,530m
+**Actual:** 52.30 km · 6h 35m 
 
 We rented e-bikes from Hobo Camping at €75 per day. The route starts from the campsite toward Courmayeur, with an initial downhill stretch — multiple switchbacks shared with car traffic, not easy to ride. Once in the Val Ferret valley, the road levels out considerably.
 
@@ -336,7 +343,7 @@ On the return, we detoured through Val Vény to the Lago del Miage. Bikes must b
 ## Day 12 · Aug 19 — Rifugio Bonatti Balcony Trail (博納提山屋陽台路線)
 
 **Route:** Val Ferret → Rifugio Walter Bonatti Balcony Trail → Ghiacciaio di Fréboudze viewpoint
-**Actual:** 7.04 km · 2h 09m · ↑420m ↓360m
+**Actual:** 7.04 km · 2h 09m (partially recorded)
 
 We took the bus to Val Ferret and followed the Italian TMB balcony route. What makes this trail distinctive is not the glacier — though the Ghiacciaio di Fréboudze is visible above — but the contrast between the terrain on either side: bare rock on the left, open meadow on the right, divided cleanly by the path itself.
 
