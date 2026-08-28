@@ -4,7 +4,7 @@ ShowWordCount = false
 ShowBreadCrumbs = false
 ShowPostNavLinks = false
 ShowDate = true
-fuseOpts = true
+ShowSearchBar = true
 
 [cover]
   hidden = false
