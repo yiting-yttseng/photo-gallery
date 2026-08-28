@@ -75,35 +75,45 @@ From Chamonix, we took the Aiguille du Midi cable car to the summit at 3,842m. T
 {{< /row >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_071158.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_152905.jpg" >}}
+{{< /row >}}
+
+
+
+We continued on the Panoramic Mont-Blanc gondola across to Pointe Helbronner on the Italian side at 3,466m. Below the gondola, enormous crevasses split the surface of the Vallée Blanche glacier — a view that's difficult to grasp from the ground.
+{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081934.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_141552_0.jpg" >}}
 {{< /row >}}
 
-We continued on the Panoramic Mont-Blanc gondola across to Pointe Helbronner on the Italian side at 3,466m. Below the gondola, enormous crevasses split the surface of the Vallée Blanche glacier — a view that's difficult to grasp from the ground.
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073848.jpg" >}}
 
-{{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081226.jpg" >}}
 
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787929115/20260810_073848.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073814.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_120502_0.jpg" >}}
-{{< /row >}}
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_152905.jpg" >}}
+
+
+
 
 
 We joined a [guided glacier hiking tour](https://www.chamonix-guides.com/en/activities/details/glacier-hiking-hike-glacier-du-geant) organised by Compagnie des Guides de Chamonix. It was my first time using an ice axe to move across steep snow.
 
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_100233.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v20260810_143905.jpg" >}}
+{{< /row >}}
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787929127/20260810_100233.jpg" >}}
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081226.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_120502_0.jpg" >}}
+{{< /row >}}
 
 On the Pointe Helbronner terrace, you could see many tents pitched directly on the snow — people who had spent the night at altitude, a common sight on this side of the massif.
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787689053/20260810_080133.jpg" >}}
-
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_080133.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787929120/20260810_073948.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073948.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
@@ -113,10 +123,7 @@ On the Pointe Helbronner terrace, you could see many tents pitched directly on t
 {{< /row >}}
 
 
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_071158.jpg" >}}
 
-{{< /row >}}
 
 
 
