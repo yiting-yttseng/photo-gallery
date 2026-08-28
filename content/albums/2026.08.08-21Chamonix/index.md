@@ -25,7 +25,8 @@ Chamonix sits at the end of a deep valley carved by glaciers, surrounded by gran
 **Route:** Grand Balcon Nord — Plan de l'Aiguille → Montenvers
 **Actual:** 12.43 km · 5h 22m · ↑170m ↓550m
 
-North Balcony is a popular route running from the middle station of the Aiguille du Midi cable car down to the Mer de Glace. The trail traverses high above the valley with views across the entire Mont Blanc massif before descending through forest to Montenvers station.
+North Balcony is a popular route running from the middle station of the Aiguille du Midi cable car down to the Mer de Glace. 
+The trail traverses high above the valley, looking across at the Aiguilles Rouges（紅針山群） on the opposite side — the mountain range where Brévent, Planpraz, Flégère and Index cable car stations are visible on the facing slope.
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260809_123256.jpg" >}}
