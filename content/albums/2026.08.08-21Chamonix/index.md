@@ -83,9 +83,6 @@ From Chamonix, we took the Aiguille du Midi cable car to the summit at 3,842m. T
 
 We continued on the Panoramic Mont-Blanc gondola across to Pointe Helbronner on the Italian side at 3,466m. Below the gondola, enormous crevasses split the surface of the Vallée Blanche glacier — a view that's difficult to grasp from the ground.
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081934.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_094420.jpg" >}}
-
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_141552_0.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_073848.jpg" >}}
 {{< /row >}}
@@ -218,11 +215,11 @@ The longest and hardest day of the trip. La Jonction is a moraine ridge at 2,589
 
 The route starts with the Bossons chairlift up to the Chalet du Glacier des Bossons, where you get your first close view of the Bossons Glacier. From there, the trail climbs steadily through forest and then open rocky terrain. As you gain altitude, the path runs along a ridge between the two glaciers — the Bossons on one side, the Taconnaz on the other. Higher up, both glaciers are visible simultaneously from the same spot. At La Jonction itself, you are standing at the point where the ice from above converges and begins its slow descent. The seracs shift and occasionally calve — you can hear them.
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_123257_0.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_123310.jpg" >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_134707.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_123310.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_120928.jpg" >}}
 {{< /row >}}
 
 {{< img-wide src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_120113.jpg" >}}
@@ -236,7 +233,7 @@ The route starts with the Bossons chairlift up to the Chalet du Glacier des Boss
 {{< row >}}
 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_095749.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_120928.jpg" >}}
+
 {{< /row >}}
 
 
@@ -274,11 +271,16 @@ The Skyway Monte Bianco, opened in 2015, rises from Courmayeur to Pointe Helbron
 
 The deck at Pointe Helbronner looks directly onto the south face of Mont Blanc. At the mid-station, there is a small alpine botanical garden with plants collected from across the Alps. The museum inside documents the history of the line, with the original cars and old photographs of the previous system on display.
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_090952.jpg" >}}
+{{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_090952.jpg" >}}
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_091023.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_104653.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_091023.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_114324.jpg" >}}
+{{< /row >}}
+
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_081934.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260817_094420.jpg" >}}
 {{< /row >}}
 
 ---
