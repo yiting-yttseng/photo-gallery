@@ -217,10 +217,6 @@ The route starts with the Bossons chairlift up to the Chalet du Glacier des Boss
 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_123310.jpg" >}}
 
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_134707.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_120928.jpg" >}}
-{{< /row >}}
 
 {{< img-wide src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_120113.jpg" >}}
 
@@ -231,16 +227,16 @@ The route starts with the Bossons chairlift up to the Chalet du Glacier des Boss
 {{< /row >}}
 
 {{< row >}}
-
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_095749.jpg" >}}
-
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_124741.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_124719.jpg" >}}
 {{< /row >}}
 
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/v1787944848/20260815_133520.jpg" >}}
 
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_124741.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_124719.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_134707.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260815_120928.jpg" >}}
 {{< /row >}}
 
 {{< komoot src="https://www.komoot.com/tour/3173855778/embed?share_token=aTkFTvckvkXo8M1ASC9rQiy9wOMaTTjLlf4UN1b89sHnNUHKa0&layout=compact" >}}
