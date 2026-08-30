@@ -1,28 +1,27 @@
-/* 加寬整體內容區域 */
+/* =====================
+   整體寬度
+   ===================== */
 .main {
   max-width: 1100px;
   padding: 0 40px;
 }
 
-
-/* 左上角網站標題 */
-.logo a, .logo span {
-  font-size: 1.3rem !important;
+/* =====================
+   導覽列字體
+   ===================== */
+.header .logo a,
+header .logo a {
+  font-size: 1.2rem !important;
   font-weight: 700 !important;
 }
 
-/* 網站標題 Yi-Ting's Gallery */
-header .logo a,
-header a.logo {
-  font-size: 1.2rem !important;
-}
-
-header nav ul li a {
+#menu li a {
   font-size: 0.95rem !important;
 }
 
-
-/* Albums 頁面：三欄格線 */
+/* =====================
+   Albums 頁面格線
+   ===================== */
 body.list main.main {
   display: grid !important;
   grid-template-columns: repeat(3, 1fr) !important;
@@ -32,21 +31,7 @@ body.list main.main {
   align-items: start;
 }
 
-/* Albums 標題跨越全部三欄並靠左 */
-body.list main.main .page-header {
-  grid-column: 1 / -1;
-  text-align: left !important;
-}
-
-
-body.list main.main .page-header h1,
-body.list main.main h1,
-body.list h1 {
-  text-align: left !important;
-  margin-left: 0 !important;
-  transform: none !important;
-}
-
+body.list main.main .page-header,
 body.list .page-header {
   grid-column: 1 / -1;
   width: 100%;
@@ -54,7 +39,12 @@ body.list .page-header {
   display: block !important;
 }
 
-/* 相簿卡片樣式 */
+body.list main.main .page-header h1,
+body.list h1 {
+  text-align: left !important;
+  margin-left: 0 !important;
+}
+
 article.post-entry {
   margin: 0 !important;
   width: 100% !important;
@@ -79,8 +69,9 @@ article.post-entry {
   font-weight: 500;
 }
 
-
-/* 首頁和單一頁面：不用格線 */
+/* =====================
+   首頁、單頁、一般頁面
+   ===================== */
 body.home main.main,
 body.single main.main,
 body.page main.main {
@@ -89,16 +80,14 @@ body.page main.main {
   padding: 20px 40px;
 }
 
-/* 單一相簿頁標題靠左 */
-body.single .post-header {
-  text-align: left !important;
-}
-
+body.single .post-header,
 body.single h1.post-title {
   text-align: left !important;
 }
 
-/* 首頁時間軸 */
+/* =====================
+   首頁時間軸
+   ===================== */
 .timeline-page {
   padding: 20px 0;
 }
@@ -157,7 +146,11 @@ body.single h1.post-title {
   transition: color 0.2s;
 }
 
-/* 相簿內頁圖片排版 */
+/* =====================
+   相簿圖片 shortcodes
+   ===================== */
+
+/* 單張全寬 */
 .img-single {
   margin: 16px 0;
 }
@@ -169,6 +162,7 @@ body.single h1.post-title {
   display: block;
 }
 
+/* 並排（保持原始比例，不裁切） */
 .img-row {
   display: flex;
   gap: 12px;
@@ -185,28 +179,16 @@ body.single h1.post-title {
 .img-row .img-single img {
   width: 100%;
   height: auto;
-  object-fit: contain;
   border-radius: 8px;
+  cursor: zoom-in;
+  display: block;
 }
 
-
-/* Komoot embed 縮小置中 */
-.komoot-embed {
-  width: 75%;
-  margin: 24px auto;
-}
-
-.komoot-embed iframe {
-  height: 350px !important;
-}
-
-
-
-/* 寬景照片 - 置中、限制最大寬度 */
+/* 寬景全寬 */
 .img-wide {
-  max-width: 100%;
   margin: 16px 0;
 }
+
 .img-wide img {
   width: 100%;
   border-radius: 8px;
@@ -214,58 +196,35 @@ body.single h1.post-title {
   display: block;
 }
 
-
-/* 單張直立照 - 置中，高度限制讓它不會佔滿整個畫面 */
+/* 直立照半寬置中 */
 .img-portrait {
-  width: 100%;
   display: flex !important;
   justify-content: center !important;
   margin: 16px 0;
 }
 
-.img-portrait img {
+.img-portrait a {
+  display: block !important;
   width: 50% !important;
+}
+
+.img-portrait img {
+  width: 100% !important;
+  height: auto !important;
   border-radius: 8px;
   cursor: zoom-in;
   display: block;
 }
-/* img-row 改成固定高度（同長不同寬） 
-.img-row {
-  display: flex;
-  gap: 12px;
-  margin: 16px 0;
-  height: 280px;
-}
-.img-row .img-single {
-  flex: 1;
-  min-width: 0;
-  margin: 0;
-  overflow: hidden;
-  border-radius: 8px;
-}
-.img-row .img-single img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  cursor: zoom-in;
-  border-radius: 8px;
-}
-*/
 
-/* Topo 圖 + Komoot 並排 */
-.side-by-side {
-  display: flex;
-  gap: 16px;
-  margin: 16px 0;
-  align-items: flex-start;
+/* =====================
+   Komoot embed
+   ===================== */
+.komoot-embed {
+  width: 75%;
+  margin: 24px auto;
 }
-.side-left {
-  flex: 0 0 40%;
-}
-.side-right {
-  flex: 1;
-}
-.side-left img {
+
+.komoot-embed iframe {
+  height: 260px;
   width: 100%;
-  border-radius: 8px;
 }
