@@ -4,17 +4,25 @@
   padding: 0 40px;
 }
 
+
 /* 左上角網站標題 */
 .logo a, .logo span {
   font-size: 1.3rem !important;
   font-weight: 700 !important;
 }
 
-/* 右上角選單項目 */
-#menu a {
-  font-size: 1rem !important;
-  font-weight: 500 !important;
+/* 網站標題 Yi-Ting's Gallery */
+.logo a {
+  font-size: 1.25rem !important;
+  font-weight: 700 !important;
 }
+
+/* 右上角選單 Home Albums About */
+#menu a {
+  font-size: 0.95rem !important;
+  letter-spacing: 0.02em;
+}
+
 
 /* Albums 頁面：三欄格線 */
 body.list main.main {
