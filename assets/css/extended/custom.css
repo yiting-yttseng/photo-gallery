@@ -10,14 +10,13 @@
    導覽列字體
    ===================== */
 
-.nav .logo a {
-  font-size: 1.15rem !important;
+.logo a {
+  font-size: 1.6em !important;
   font-weight: 700 !important;
 }
 
-#menu li a,
-#menu li {
-  font-size: 0.9rem !important;
+#menu a {
+  font-size: 0.9em !important;
 }
 
 /* =====================
