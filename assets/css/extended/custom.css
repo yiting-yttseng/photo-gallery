@@ -12,15 +12,13 @@
 }
 
 /* 網站標題 Yi-Ting's Gallery */
-.logo a {
-  font-size: 1.25rem !important;
-  font-weight: 700 !important;
+header .logo a,
+header a.logo {
+  font-size: 1.2rem !important;
 }
 
-/* 右上角選單 Home Albums About */
-#menu a {
+header nav ul li a {
   font-size: 0.95rem !important;
-  letter-spacing: 0.02em;
 }
 
 
@@ -219,16 +217,18 @@ body.single h1.post-title {
 
 /* 單張直立照 - 置中，高度限制讓它不會佔滿整個畫面 */
 .img-portrait {
-  display: flex;
-  justify-content: center;
+  width: 100%;
+  display: flex !important;
+  justify-content: center !important;
   margin: 16px 0;
 }
+
 .img-portrait img {
-  width: 50%;
+  width: 50% !important;
   border-radius: 8px;
   cursor: zoom-in;
+  display: block;
 }
-
 /* img-row 改成固定高度（同長不同寬） 
 .img-row {
   display: flex;
