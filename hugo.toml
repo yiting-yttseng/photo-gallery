@@ -9,3 +9,6 @@ baseURL = "https://yiting-yttseng.github.io/photo-gallery/"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
