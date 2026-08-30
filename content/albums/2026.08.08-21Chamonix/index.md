@@ -204,8 +204,8 @@ We joined a group experience organised by [Compagnie des Guides de Chamonix](htt
 
 <div style="display:flex; gap:16px; align-items:stretch; margin:16px 0;">
   <div style="flex:0 0 40%; height:260px; overflow:hidden; border-radius:8px;">
-    <a href="https://res.cloudinary.com/cx8nvdpl/image/upload/[topo檔名].jpg" target="_blank">
-      <img src="https://res.cloudinary.com/cx8nvdpl/image/upload/[topo檔名].jpg" 
+    <a href="https://res.cloudinary.com/cx8nvdpl/image/upload/Ferrata_des_Evettes_-_Chamonix.jpg" target="_blank">
+      <img src="https://res.cloudinary.com/cx8nvdpl/image/upload/Ferrata_des_Evettes_-_Chamonix.jpg" 
            style="width:100%; height:100%; object-fit:cover; object-position:top; display:block; cursor:zoom-in;" />
     </a>
   </div>
