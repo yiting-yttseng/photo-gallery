@@ -9,14 +9,15 @@
 /* =====================
    導覽列字體
    ===================== */
-.header .logo a,
-header .logo a {
-  font-size: 1.2rem !important;
+
+.nav .logo a {
+  font-size: 1.15rem !important;
   font-weight: 700 !important;
 }
 
-#menu li a {
-  font-size: 0.95rem !important;
+#menu li a,
+#menu li {
+  font-size: 0.9rem !important;
 }
 
 /* =====================
