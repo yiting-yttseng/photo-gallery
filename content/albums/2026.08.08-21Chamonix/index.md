@@ -202,17 +202,21 @@ We joined a group experience organised by [Compagnie des Guides de Chamonix](htt
 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20260813_120306.jpg" >}}
 
-{{< komoot src="https://www.komoot.com/tour/3114077946/embed?share_token=axm04wFPcI44EIkhmMWecSm89AJEJzbVFo1xq2LVHvLcOmddfZ&layout=compact" >}}
-
-
-<div style="display:flex; gap:16px; align-items:flex-start;">
-  <div style="flex:0 0 38%;">
-    <img src="https://res.cloudinary.com/cx8nvdpl/image/upload/Ferrata_des_Evettes_-_Chamonix.png" style="width:100%; border-radius:8px;" />
+<div style="display:flex; gap:16px; align-items:stretch; margin:16px 0;">
+  <div style="flex:0 0 40%; height:260px; overflow:hidden; border-radius:8px;">
+    <a href="https://res.cloudinary.com/cx8nvdpl/image/upload/[topo檔名].jpg" target="_blank">
+      <img src="https://res.cloudinary.com/cx8nvdpl/image/upload/[topo檔名].jpg" 
+           style="width:100%; height:100%; object-fit:cover; object-position:top; display:block; cursor:zoom-in;" />
+    </a>
   </div>
   <div style="flex:1;">
-    <iframe src="https://www.komoot.com/tour/3114077946/embed?share_token=axm04wFPcI44EIkhmMWecSm89AJEJzbVFo1xq2LVHvLcOmddfZ&layout=compact" width="100%" height="400" frameborder="0"></iframe>
+    <iframe src="https://www.komoot.com/tour/3114077946/embed?share_token=axm04wFPcI44EIkhmMWecSm89AJEJzbVFo1xq2LVHvLcOmddfZ&layout=compact" 
+            width="100%" height="260" frameborder="0" scrolling="no" allow="fullscreen" allowfullscreen></iframe>
   </div>
 </div>
+
+
+
 ---
 
 ## Day 7 · Aug 14 — Tramway du Mont-Blanc & Glacier de Bionnassay (TMB 齒軌小火車 & 比昂納塞冰川)
