@@ -1,0 +1,27 @@
+<header class="header">
+  <nav class="nav">
+    <div class="logo">
+      {{- $label_text := (site.Params.label.text | default site.Title) }}
+      <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
+        {{- $label_text -}}
+      </a>
+    </div>
+    <ul id="menu">
+      {{- range site.Menus.main }}
+      <li>
+        <a href="{{ .URL | absURL }}"
+          {{- if $.IsHome }} {{- if eq .URL "/" }} aria-current="page" {{- end }}
+          {{- else if (strings.HasSuffix $.RelPermalink (.URL | absURL | relURL)) }} aria-current="page" {{- end }}>
+          {{- .Name -}}
+        </a>
+      </li>
+      {{- end }}
+      <li>
+        <form action="{{ "search" | absLangURL }}" method="get" style="display:flex; align-items:center; gap:4px;">
+          <input type="search" name="q" placeholder="Search…"
+            style="background:transparent; border:none; border-bottom:1px solid #555; color:inherit; font-size:0.9rem; width:120px; padding:2px 4px; outline:none;" />
+        </form>
+      </li>
+    </ul>
+  </nav>
+</header>
