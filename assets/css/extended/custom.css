@@ -10,6 +10,11 @@
    導覽列字體
    ===================== */
 
+header.header nav.nav div.logo a {
+  font-size: 22px !important;
+  font-weight: 700 !important;
+}
+
 .logo a {
   font-size: 1.6em !important;
   font-weight: 700 !important;
