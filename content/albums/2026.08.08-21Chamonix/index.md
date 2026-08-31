@@ -4,7 +4,7 @@ date: "2026-08-08"
 showDate: false
 summary: " "
 cover:
-  image: "https://res.cloudinary.com/cx8nvdpl/image/upload/20260814_110948.jpg"
+  image: "https://res.cloudinary.com/cx8nvdpl/image/upload/20260810_065104.jpg"
   alt: "Chamonix 2026"
 tags:
   - "France (法國)"

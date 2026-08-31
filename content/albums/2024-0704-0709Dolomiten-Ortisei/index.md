@@ -4,7 +4,7 @@ date: "2024-07-04"
 showDate: false
 summary: " "
 cover:
-  image: "https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240704_170420_vHDR_Auto_HP.jpg"
+  image: "https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_161143_vHDR_Auto_HP.jpg"
   alt: "Val Gardena"
 tags:
   - "Italy (義大利)"
@@ -82,9 +82,19 @@ Since it was my friend's first time on a via ferrata, I chose an A/B-grade route
 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20240706_2.jpg" >}}
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/Ferrata_Sass_Rigais_-_Klettersteig_%C3%9Cberschreitung.png" >}}
 
-{{< komoot src="https://www.komoot.com/tour/1741925496/embed?share_token=atcpkPQNMjy6T1780RdWr4G6n81hMxKwKo89qo3wYvF6wUTNMT&layout=compact" >}}
+<div style="display:flex; gap:16px; align-items:stretch; margin:16px 0;">
+  <div style="flex:0 0 40%; height:260px; overflow:hidden; border-radius:8px;">
+    <a href="https://res.cloudinary.com/cx8nvdpl/image/upload/Ferrata_Sass_Rigais_-_Klettersteig_%C3%9Cberschreitung.png" target="_blank">
+      <img src="https://res.cloudinary.com/cx8nvdpl/image/upload/Ferrata_Sass_Rigais_-_Klettersteig_%C3%9Cberschreitung.png" 
+           style="width:100%; height:100%; object-fit:cover; object-position:top; display:block; cursor:zoom-in;" />
+    </a>
+  </div>
+  <div style="flex:1;">
+    <iframe src="https://www.komoot.com/tour/1741925496/embed?share_token=atcpkPQNMjy6T1780RdWr4G6n81hMxKwKo89qo3wYvF6wUTNMT&layout=compact" 
+            width="100%" height="260" frameborder="0" scrolling="no" allow="fullscreen" allowfullscreen></iframe>
+  </div>
+</div>
 
 ---
 
