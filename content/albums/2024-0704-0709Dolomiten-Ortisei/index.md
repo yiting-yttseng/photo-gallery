@@ -4,7 +4,7 @@ date: "2024-07-04"
 showDate: false
 summary: " "
 cover:
-  image: "https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_161143_vHDR_Auto_HP.jpg"
+  image: "https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240704_171612_vHDR_Auto_HP.jpg"
   alt: "Val Gardena"
 tags:
   - "Italy (義大利)"
@@ -91,7 +91,7 @@ Since it was my friend's first time on a via ferrata, I chose an A/B-grade route
     </a>
   </div>
   <div style="flex:1;">
-    <iframe src="https://www.komoot.com/tour/1741925496/embed?share_token=atcpkPQNMjy6T1780RdWr4G6n81hMxKwKo89qo3wYvF6wUTNMT&layout=compact" 
+    <iframe src="https://www.komoot.com/tour/1741925496/embed?share_token=aWQuZY80W2qnxG813dJf1ITM7JhD7DvbutAotYd17mgZivZBcH&amp;layout=compact" 
             width="100%" height="260" frameborder="0" scrolling="no" allow="fullscreen" allowfullscreen></iframe>
   </div>
 </div>
