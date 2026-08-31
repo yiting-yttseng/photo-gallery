@@ -1,5 +1,5 @@
 ---
-title: "Chamonix 2026"
+title: "Chamonix (France) 2026"
 date: "2026-08-08"
 showDate: false
 summary: " "

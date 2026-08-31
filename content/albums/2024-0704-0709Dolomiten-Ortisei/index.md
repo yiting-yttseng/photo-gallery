@@ -1,11 +1,23 @@
 ---
-title: "Val Gardena 2024"
+title: "Dolomites: Val Gardena (Italy) 2024"
 date: "2024-07-04"
 showDate: false
 summary: " "
 cover:
   image: "https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240704_170420_vHDR_Auto_HP.jpg"
   alt: "Val Gardena"
+tags:
+  - "Italy (義大利)"
+  - "Dolomites (多洛米蒂)"
+  - "Val Gardena (加爾代納谷)"
+  - "Sassolungo (薩索隆戈峰)"
+  - "Sarglift (棺材纜車)"
+  - "Sas Rigais (薩斯里蓋斯峰)"
+  - "Geisler Group (蓋斯勒山群)"
+  - "Seceda (塞切達)"
+  - "Dantercëpies"
+  - "Lech de Crespëina (克雷斯佩伊納湖)"
+  - "Via Ferrata (鐵索攀岩)"
 ---
 
 ## Day 1 · Jul 4 — Arrival in Santa Cristina Val Gardena (German: St. Christina in Gröden)
@@ -137,3 +149,9 @@ After three demanding days, we planned to shorten our route partway through — 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20240708_11.jpg" >}}
 
 {{< komoot src="https://www.komoot.com/tour/1693880025/embed?share_token=ammHololKJs4glAUHh9ts9JcEfMDn8MUaVgChhKCtlqv4y8n7j&layout=compact" >}}
+
+
+
+## Route Map (路線地圖)
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1eH2UH2DT5axaYU2jX3Q6JXghrqBmIHk&ehbc=2E312F" width="100%" height="480" style="border:0; border-radius:8px;" allowfullscreen></iframe>
