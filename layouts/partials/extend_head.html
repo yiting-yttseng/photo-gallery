@@ -3,11 +3,12 @@ document.addEventListener('DOMContentLoaded', function () {
   var menu = document.getElementById('menu');
   if (!menu) return;
 
+  var searchBase = window.location.origin + '/photo-gallery/search/';
+
   var li = document.createElement('li');
   li.innerHTML =
-    '<form action="/photo-gallery/search/" method="get" ' +
-    'style="display:flex;align-items:center;margin:0;">' +
-    '<input type="search" name="q" placeholder="Search…" ' +
+    '<form id="nav-search" style="display:flex;align-items:center;margin:0;">' +
+    '<input type="search" id="nav-search-input" placeholder="Search…" ' +
     'style="background:transparent;border:none;border-bottom:1px solid #666;' +
     'color:inherit;font-size:0.85rem;width:90px;padding:2px 6px;outline:none;' +
     'transition:width 0.3s ease;" ' +
@@ -15,5 +16,11 @@ document.addEventListener('DOMContentLoaded', function () {
     'onblur="this.style.width=\'90px\'" />' +
     '</form>';
   menu.appendChild(li);
+
+  document.getElementById('nav-search').addEventListener('submit', function(e) {
+    e.preventDefault();
+    var q = document.getElementById('nav-search-input').value.trim();
+    if (q) window.location.href = searchBase + '?q=' + encodeURIComponent(q);
+  });
 });
 </script>
