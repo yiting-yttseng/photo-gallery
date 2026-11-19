@@ -24,9 +24,7 @@ tags:
 
 Santa Cristina Val Gardena (German: St. Christina in Gröden) is one of the three villages of Val Gardena (German: Gröden), alongside Ortisei (German: St. Ulrich) and Selva (German: Wolkenstein). From the hotel, the view opens straight up the valley toward Sassolungo (German: Langkofel, 3,181m) and its neighbour Sassopiatto (German: Plattkofel, 2,957m) — the same peaks we'd be hiking around the next day.
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240704_170420_vHDR_Auto_HP.jpg" >}}
-
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240704_171612_vHDR_Auto_HP.jpg" >}}
+{{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240704_170420_vHDR_Auto_HP.jpg" >}}
 
 ---
 
@@ -40,31 +38,32 @@ Stepping off the cable car, the landscape changes completely — bare rock and l
 
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_093821_vHDR_Auto.jpg" >}}
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_100520_vHDR_Auto.jpg" >}}
-
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_101708_vHDR_Auto.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240704_171612_vHDR_Auto_HP.jpg" >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_100520_vHDR_Auto.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_101708_vHDR_Auto.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_110928_vHDR_Auto.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_111538_vHDR_Auto_HP.jpg" >}}
 {{< /row >}}
 
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_111538_vHDR_Auto_HP.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_114609_vHDR_Auto.jpg" >}}
-
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_123116_vHDR_Auto_HP.jpg" >}}
+{{< /row >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_132249_vHDR_Auto_HP.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_132726_vHDR_Auto_HP.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_133237_vHDR_Auto_HP.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_141356_vHDR_Auto_HP.jpg" >}}
 {{< /row >}}
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_133237_vHDR_Auto_HP.jpg" >}}
-
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_141356_vHDR_Auto_HP.jpg" >}}
-
+{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20240705_3.jpg" >}}
-
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20240705_5.jpg" >}}
+{{< /row >}}
+
+{{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240705_132726_vHDR_Auto_HP.jpg" >}}
 
 {{< komoot src="https://www.komoot.com/tour/1681972596/embed?share_token=a3ifLnDJbYlnWRZTdOMsdehOJxriN7a1Uoama8JVyBtkUpaL12&layout=compact" >}}
 
@@ -106,17 +105,17 @@ Seceda is arguably the most photographed mountain in the Dolomites — jagged Ge
 
 We came up on the same Col Raiser cable car as the day before, and could already see Sas Rigais and the ridge from that first angle — just not yet Seceda's famous face. Between the late start and a grey, closed-in sky, we never made it to the viewpoint that shows Seceda at its best.
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_141636_vHDR_Auto.jpg" >}}
-
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_145236_vHDR_Auto_HP_1.jpg" >}}
-
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_145743_vHDR_Auto_HP.jpg" >}}
-
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_154558_vHDR_Auto_HP.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_161147_vHDR_Auto_HP.jpg" >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_141636_vHDR_Auto.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_161143_vHDR_Auto_HP.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_161147_vHDR_Auto_HP.jpg" >}}
+{{< /row >}}
+
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_145236_vHDR_Auto_HP_1.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_145743_vHDR_Auto_HP.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240707_154558_vHDR_Auto_HP.jpg" >}}
 {{< /row >}}
 
 {{< komoot src="https://www.komoot.com/tour/1683646810/embed?share_token=a6LzAPIPbDa3WFD68wGw9gfIT2KjOscHRCgJNEbvSOOGBYHOoM&layout=compact" >}}
@@ -131,32 +130,30 @@ From Selva (German: Wolkenstein), the two-stage Dantercepies I/II cable car clim
 
 After three demanding days, we planned to shorten our route partway through — but the paper map we were reading was more illustration than accurate topography, and in the end we stayed on trail 2 the whole way out, no shortcut taken. By the time we reached Lech de Crespëina (2,374m), an unmarked, cairned path continuing beyond the lake looked steep, and with no one else in sight across the open pasture, we turned back rather than push on. By the time we retraced our way to the Dantercëpies station, the cable car had already closed for the day — so we ended up walking all the way down anyway, following what turned out to be the first stretch of trail 12A, the same corridor used by the shorter loop option.
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_113237.jpg" >}}
-
-{{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_140229_vHDR_Auto_HP.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_140312_vHDR_Auto_HP.jpg" >}}
-{{< /row >}}
-
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_150116_vHDR_Auto_HP.jpg" >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_140312_vHDR_Auto_HP.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_152554_vHDR_Auto_HP.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_152606_vHDR_Auto_HP.jpg" >}}
 {{< /row >}}
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_153032_vHDR_Auto_HP.jpg" >}}
-
+{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_180552_vHDR_Auto_HP.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20240708_8.jpg" >}}
+{{< /row >}}
+
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_113237_vHDR_Auto_HP.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_140229_vHDR_Auto_HP.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_153032_vHDR_Auto_HP.jpg" >}}
+{{< /row >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_182606_vHDR_Auto.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/P_20240708_182937_vHDR_Auto.jpg" >}}
-{{< /row >}}
-
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20240708_8.jpg" >}}
-
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20240708_11.jpg" >}}
+{{< /row >}}
 
 {{< komoot src="https://www.komoot.com/tour/1693880025/embed?share_token=ammHololKJs4glAUHh9ts9JcEfMDn8MUaVgChhKCtlqv4y8n7j&layout=compact" >}}
 
