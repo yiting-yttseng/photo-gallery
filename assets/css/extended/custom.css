@@ -152,6 +152,7 @@ body.single h1.post-title {
   font-size: 1rem;
   color: #ccc;
   transition: color 0.2s;
+  white-space: nowrap;
 }
 
 /* =====================
@@ -235,4 +236,18 @@ body.single h1.post-title {
 .komoot-embed iframe {
   height: 260px;
   width: 100%;
+}
+
+/* 兩個 Komoot 並排（Aug 30 兩段路線） */
+.komoot-row {
+  display: flex;
+  gap: 16px;
+  margin: 24px 0;
+  align-items: flex-start;
+}
+
+.komoot-row .komoot-embed {
+  flex: 1;
+  width: auto;
+  margin: 0;
 }

@@ -4,7 +4,7 @@ date: "2025-08-25"
 showDate: false
 summary: " "
 cover:
-  image: "https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_095445.jpg"
+  image: "https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_151543.jpg"
   alt: "Vigo di Fassa"
 tags:
   - "Italy (義大利)"
@@ -22,53 +22,60 @@ tags:
 
 ## Aug 26
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_090407.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_122851.jpg" >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_122851.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_090407.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_165654.jpg" >}}
 {{< /row >}}
 
 {{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_144337.jpg" >}}
 
+{{< komoot src="https://www.komoot.com/tour/2354312896/embed?layout=compact&line=4f6814" >}}
+
 ---
 
 ## Aug 27
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_091512.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_112614.jpg" >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_091512.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_094209.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_101542.jpg" >}}
+{{< /row >}}
+
+{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_103226.jpg" >}}
-{{< /row >}}
-
-{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_105310.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_112614.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_133501.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_123139_1.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_123139_1.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_133501.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250827_142028.jpg" >}}
 {{< /row >}}
+
+{{< komoot src="https://www.komoot.com/tour/2523291495/embed?layout=compact&line=4f6814" >}}
 
 ---
 
 ## Aug 28
 
+{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250828_133256.jpg" >}}
-
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250828_134724.jpg" >}}
+{{< /row >}}
 
 {{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250828_203742.jpg" >}}
+
+{{< komoot src="https://www.komoot.com/tour/2523570896/embed?layout=compact&line=4f6814" >}}
 
 ---
 
 ## Aug 29
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_103232.jpg" >}}
+{{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_105644.jpg" >}}
 
 {{< img-wide src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_104029.jpg" >}}
 
@@ -78,44 +85,54 @@ tags:
 {{< /row >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_105648.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_103232.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_105703.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_113451.jpg" >}}
 {{< /row >}}
 
-{{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_105644.jpg" >}}
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_105648.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_113451.jpg" >}}
+{{< /row >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_141607.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250829_201148.jpg" >}}
 {{< /row >}}
 
+{{< komoot src="https://www.komoot.com/tour/2523507516/embed?layout=compact&line=4f6814" >}}
+
 ---
 
 ## Aug 30
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_111159.jpg" >}}
-
 {{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_111133.jpg" >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_111159.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_122651.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_134228.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_134228.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_173435.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_175523.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_180757.jpg" >}}
 {{< /row >}}
+
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_180757.jpg" >}}
+
+<div class="komoot-row">
+{{< komoot src="https://www.komoot.com/tour/2523492481/embed?layout=compact&line=4f6814" >}}
+{{< komoot src="https://www.komoot.com/tour/2532563321/embed?layout=compact&line=4f6814" >}}
+</div>
 
 ---
 
 ## Aug 31
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_095445.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_151543.jpg" >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_095445.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_110815.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_123258.jpg" >}}
 {{< /row >}}
@@ -133,7 +150,6 @@ tags:
 {{< /row >}}
 
 {{< row >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_151543.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_153556.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_162117.jpg" >}}
 {{< /row >}}
