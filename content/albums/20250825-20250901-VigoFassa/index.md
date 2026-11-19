@@ -26,6 +26,11 @@ tags:
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_090407.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_120646.jpg" >}}
+{{< /row >}}
+
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_122857.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_165654.jpg" >}}
 {{< /row >}}
 
@@ -105,6 +110,8 @@ tags:
 
 ## Aug 30
 
+{{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_105452.jpg" >}}
+
 {{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_111133.jpg" >}}
 
 {{< row >}}
@@ -115,10 +122,13 @@ tags:
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_134228.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_173435.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_175523.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_173606_0.jpg" >}}
 {{< /row >}}
 
+{{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_175523.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250830_180757.jpg" >}}
+{{< /row >}}
 
 <div class="komoot-row">
 {{< komoot src="https://www.komoot.com/tour/2523492481/embed?layout=compact&line=4f6814" >}}
@@ -134,19 +144,25 @@ tags:
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_095445.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_110815.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_123258.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_121823.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_123258.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_124651.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_125711.jpg" >}}
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_130208.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_130208.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_131804.jpg" >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_132703.jpg" >}}
+{{< /row >}}
+
+{{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_134832.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_140413.jpg" >}}
+{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250831_151054.jpg" >}}
 {{< /row >}}
 
 {{< row >}}
