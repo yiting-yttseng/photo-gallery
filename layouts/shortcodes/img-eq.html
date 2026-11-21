@@ -1,0 +1,12 @@
+{{- /*
+  Equal-height image for use inside {{< row >}}.
+  ratio = width:height of the photo, e.g. "4:3" (landscape) or "3:4" (portrait).
+  Each image's flex-grow equals its aspect ratio, so all images in the row end up the same height.
+*/ -}}
+{{- $parts := split (.Get "ratio" | default "4:3") ":" -}}
+{{- $r := div (float (index $parts 0)) (float (index $parts 1)) -}}
+<div class="img-single img-eq" style="flex: {{ $r }} 1 0%;">
+  <a href="{{ .Get "src" }}" target="_blank">
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" | default "" }}" />
+  </a>
+</div>

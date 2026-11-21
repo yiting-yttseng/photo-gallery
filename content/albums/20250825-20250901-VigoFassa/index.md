@@ -14,15 +14,36 @@ tags:
   - "Hiking (健行)"
 ---
 
-## Aug 25
+**Aug 25 – Sep 1, 2025 · Val di Fassa (法薩谷), Dolomites, Italy**
+
+A week in the Dolomites — via ferrata and hiking around Val di Fassa.
+
+**Stay (住宿):**
+- Aug 25–28 · Via De Costa 109, 38030 Canazei, Italy（義大利卡納澤伊）
+- Aug 28–Sep 1 · Strada Semal 19, 38039 Vigo di Fassa, Italy（義大利維哥迪法薩）
+
+---
+
+## Day 1 · Aug 25 — Arrival (抵達)
 
 {{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250825_160708.jpg" >}}
 
 ---
 
-## Aug 26
+## Day 2 · Aug 26 — Via Ferrata Oskar Schuster, Sassopiatto (Plattkofel)（鐵索攀岩）
 
-{{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_122851.jpg" >}}
+**Route:** Passo Sella (Sellajoch) → Forcella Sassolungo (gondola) → Rifugio Vicenza (Langkofelhütte) → Via Ferrata Oskar Schuster → Sassopiatto (Plattkofel) → back to Passo Sella · Grade B/C
+
+We started at Passo Sella (Sellajoch) and took the Forcella Sassolungo gondola — nicknamed the "coffin lift"（棺材纜車）for its narrow, standing-only two-person cabins — up to the notch in the Sassolungo (Langkofel) massif. From there, the trail drops down a long scree valley to Rifugio Vicenza (Langkofelhütte), where the signs for the via ferrata begin.
+
+Sassopiatto (Plattkofel) and Sassolungo (Langkofel) belong to the Sassolungo Group (Langkofelgruppe), a horseshoe of dolomite peaks between Val Gardena (Gröden) and Val di Fassa, enclosing the high cirque where Rifugio Vicenza sits. The route is named after Oskar Schuster, a German climbing pioneer in the Dolomites.
+
+After crossing the cirque below the hut, the path turns steep and climbs into the rock. The via ferrata is graded around B/C, and some sections have no cable at all — you scramble on your own. Once past the via ferrata, it's downhill all the way, hiking back to the starting point. Over the course of the day the landscape changes completely: from the pale, jagged dolomite rock that defines the Dolomites to a wide, open expanse of alpine meadow.
+
+{{< row >}}
+{{< img-eq src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_122851.jpg" ratio="4:3" >}}
+{{< img-eq src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_144337.jpg" ratio="3:4" >}}
+{{< /row >}}
 
 {{< row >}}
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_090407.jpg" >}}
@@ -34,9 +55,16 @@ tags:
 {{< img src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_165654.jpg" >}}
 {{< /row >}}
 
-{{< img-portrait src="https://res.cloudinary.com/cx8nvdpl/image/upload/20250826_144337.jpg" >}}
-
-{{< komoot src="https://www.komoot.com/tour/2354312896/embed?layout=compact&line=4f6814" >}}
+<div class="topo-map-row">
+  <div class="topo">
+    <a href="https://res.cloudinary.com/cx8nvdpl/image/upload/Oskar_Schuster_Klettersteig_-_Plattkofel.jpg" target="_blank">
+      <img src="https://res.cloudinary.com/cx8nvdpl/image/upload/Oskar_Schuster_Klettersteig_-_Plattkofel.jpg" alt="Oskar Schuster Klettersteig topo" />
+    </a>
+  </div>
+  <div class="map">
+    <iframe src="https://www.komoot.com/tour/2354312896/embed?layout=compact&line=4f6814" width="100%" height="260" frameborder="0" scrolling="no" allow="fullscreen" allowfullscreen></iframe>
+  </div>
+</div>
 
 ---
 

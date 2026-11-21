@@ -251,3 +251,37 @@ body.single h1.post-title {
   width: auto;
   margin: 0;
 }
+
+/* 等高並排（橫+直混排）：img-eq 依長寬比分配寬度，讓同一行高度一致 */
+.img-row .img-eq {
+  min-width: 0;
+  margin: 0;
+}
+
+/* Topo 圖 + Komoot 地圖並排 */
+.topo-map-row {
+  display: flex;
+  gap: 16px;
+  align-items: stretch;
+  margin: 16px 0;
+}
+
+.topo-map-row .topo {
+  flex: 0 0 40%;
+  height: 260px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.topo-map-row .topo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  cursor: zoom-in;
+}
+
+.topo-map-row .map {
+  flex: 1;
+}
